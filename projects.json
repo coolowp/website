@@ -3,7 +3,6 @@
         "name": "About Me",
         "description": "Who am I?",
         "url": "about/",
-        "icon": "☠",
         "catagory": "INFO"
     },
 
@@ -11,7 +10,6 @@
         "name": "Contact",
         "description": "Dont talk to me",
         "url": "contact/",
-        "icon": "☠",
         "catagory": "INFO"
     },
 
@@ -19,7 +17,6 @@
         "name": "Movie wheel",
         "description": "Spin a wheel and watch a movie",
         "url": "movies-wheel/",
-        "icon": "☠",
         "catagory": "PROJECT"
     },
 
@@ -27,7 +24,6 @@
         "name": "Alice collection",
         "description": "I like to hoard alice stuff",
         "url": "alice-collection/",
-        "icon": "☠",
         "catagory": "PROJECT"
     },
 
@@ -35,7 +31,6 @@
         "name": "Alice tierlist",
         "description": "Watching every alice movie ever made for whatever reason",
         "url": "alice-tierlist/",
-        "icon": "☠",
         "catagory": "PROJECT"
     },
 
@@ -43,7 +38,6 @@
         "name": "Movies i own on dvd",
         "description": "I like physical media and movies are great",
         "url": "i-own-dvd's/",
-        "icon": "☠",
         "catagory": "PROJECT"
     },
 
@@ -51,7 +45,6 @@
         "name": "Weird site",
         "description": "Yea i made some weird shit",
         "url": "weird/",
-        "icon": "☠",
         "catagory": "PROJECT"
     }
 ]
