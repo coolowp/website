@@ -1,26 +1,27 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-    const projectsContainer = 
+    const projectsContainer =
         document.getElementById("projectsContainer");
 
-    const projectCount = 
+    const projectCount =
         document.getElementById("projectCount");
 
     const emptyMessage =
         document.getElementById("emptyMessage");
-    
+
     const year =
         document.getElementById("year");
 
+
     // Current year
 
-    year.textContent = 
+    year.textContent =
         new Date().getFullYear();
+
 
     // Load projects
 
     fetch("projects.json")
-
         .then(response => {
 
             if (!response.ok) {
@@ -35,8 +36,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         .then(projects => {
 
-            projectCount.textContent = 
+            projectCount.textContent =
                 projects.length;
+
 
             if (projects.length === 0) {
 
@@ -46,21 +48,22 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
 
-            projects.forEach((projects, index) => {
+            projects.forEach((project, index) => {
 
                 const card =
                     document.createElement("a");
-                    
+
                 card.classList.add("project-card");
 
                 card.href = project.url;
 
-                card.innerHTML = '
-                
+
+                card.innerHTML = `
+
                     <div>
 
                         <div class="project-number">
-                            ${String(index + 1).padstart(2, "0")}
+                            ${String(index + 1).padStart(2, "0")}
                             // ${project.category || "PROJECT"}
                         </div>
 
@@ -82,11 +85,13 @@ document.addEventListener("DOMContentLoaded", () => {
                         →
                     </div>
 
-                ';
+                `;
 
 
                 projectsContainer.appendChild(card);
+
             });
+
         })
 
         .catch(error => {
@@ -95,12 +100,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
             emptyMessage.hidden = false;
 
-            emptyMessage.innerHTML = '
-            
+            emptyMessage.innerHTML = `
                 <p>
-                    Couldnt load the project directory.
+                    Couldn't load the project directory.
                 </p>
-            ';
+            `;
 
         });
+
 });
