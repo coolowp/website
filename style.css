@@ -1,0 +1,615 @@
+/* =========================================
+               GLOBAL
+========================================= */
+
+* {
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+:root {
+
+    --background: #09090b;
+    --background-light: #111116;
+
+    --panel: #111116;
+    --panel-hover: #18181f;
+
+    --text: #eeeeee;
+    --text-muted: #85858f;
+
+    --accent: #ff315f;
+    --accent-dark: #9e1737;
+
+    --border: #292932;
+
+    --max-width: 1400px;
+
+}
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    min-height: 100vh;
+
+    background: 
+        radial-gradient(
+            circle at 50% -20%,
+            rgba(255, 49, 95, 0.12),
+            transparent 45%
+        ),
+
+        var(--background);
+
+    color: var(--text);
+
+    font-family: 
+        Arial, 
+        Helvetica, 
+        sans-serif;
+
+    overflow-x: hidden;
+
+}
+
+
+/* ==========================================
+                BACKGROUND
+===========================================*/
+
+
+.background-noise {
+
+    position: fixed;
+    inset: 0;
+
+    pointer-events: none;
+
+    opacity: 0.035;
+
+    z-index: -1;
+
+    background-image: 
+        url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+}
+
+
+.background-grid {
+    position: fixed;
+    inset: 0;
+    
+    pointer-events: none;
+
+    z-index: -2;
+
+    opacity: 0.08;
+
+    background-image: 
+
+        linear-gradient(
+            rgba(255, 255, 255, 0.04) 1px,
+            transparent 1px
+        ),
+
+        linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.04) 1px,
+            transparent 1px
+        );
+}
+
+
+/* ==========================================
+                MAIN    
+===========================================*/
+
+main {
+    width: min(
+        calc(100% - 40px),
+        var(--max-width)
+    );
+
+    margin: auto;
+}
+
+
+/* ==========================================
+                HERO
+===========================================*/
+
+.hero {
+
+    min-height: 80vh;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    padding: 
+        100px
+        0
+        80px;
+}
+
+
+.hero-tag {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    width: fit-content;
+
+    gap: 10px;
+
+    margin-bottom: 30px;
+
+    padding: 8px 14px;
+
+    border: 1px solid var(--border);
+
+    background: rgba(255, 255, 255, 0.02);
+
+    color: var(--text-muted);
+
+    font-size: 12px;
+
+    font-weight: bold;
+
+    letter-spacing: 3px;
+}
+
+
+.status-dot {
+
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+
+    background: #51ff88;
+
+    box-shadow:
+        0 0 10px rgba(81, 255, 136, 0.8);
+}
+
+
+.hero h1 {
+
+    max-width: 1000px;
+
+    font-size:
+        clamp(50px, 9vw, 130px);
+    
+    line-height: 0.88;
+
+    letter-spacing: -6px;
+
+    font-weight: 900;
+
+    text-transform: uppercase;
+}
+
+
+.hero h1 span {
+
+    color: transparent;
+
+    -webkit-text-stroke:
+        2px var(--accent);
+
+    text-shadow:
+        0 0 30px rgba(255, 49, 95, 0.15);
+}
+
+
+.hero-description {
+
+    max-width: 600px;
+
+    margin-top: 40px;
+
+    color: var(--text-muted);
+
+    font-size: 18px;
+
+    line-height: 1.7;
+}
+
+
+.hero-divider {
+
+    display: flex;
+
+    align-self: center;
+
+    gap: 15px;
+
+    width: 300px;
+
+    margin-top: 50px;
+
+    color: var(--accent);
+}
+
+
+.hero-divider span:first-child,
+.hero-divider span:last-child {
+
+    height: 1px;
+
+    flex: 1;
+
+    background: var(--border);
+}
+
+
+/* ==========================================
+                PROJECTS
+===========================================*/
+
+
+.projects-section {
+
+    padding:
+        50px 0 
+        120px;
+}
+
+
+.section-heading {
+
+    display: flex;
+
+    align-items: flex-end;
+
+    justify-content: space-between;
+
+    gap: 30px;
+
+    margin-bottom: 45px;
+}
+
+
+.eyebrow {
+
+    margin-bottom: 10px;
+
+    color: var(--accent);
+
+    font-size: 12px;
+
+    font-weight: bold;
+
+    letter-spacing: 4px;
+}
+
+
+.section-heading h2 {
+
+    font-size: clamp(40px, 6vw, 80px);
+
+    line-height: 1;
+
+    letter-spacing: -3px;
+}
+
+
+.projects-count {
+
+    color: var(--text-muted);
+
+    font-size: 11px;
+
+    font-weight: bold;
+
+    letter-spacing: 2px;
+}
+
+
+.projects-count span {
+
+    color: var(--accent);
+}
+
+
+/* ==========================================
+                PROJECT GRID
+===========================================*/
+
+
+.projects-grid {
+
+    display: grid;
+
+    grid-template-columns: 
+        repeat(
+            auto-fill,
+            minmax(280px, 1fr)
+        );
+
+    gap: 18px;
+}
+
+
+/* ==========================================
+                PROJECT CARD
+===========================================*/
+
+
+.projects-card {
+
+    position: relative;
+
+    min-height: 260px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-between;
+
+    padding: 28px;
+
+    border: 1px solid var(--border);
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(255,255,255,0.035),
+            rgba(255,255,255,0.01)
+        );
+    
+    text-decoration: none;
+
+    color: var(--text);
+
+    overflow: hidden;
+
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        background 0.25s ease;
+}
+
+
+.projects-card::before {
+
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 4px;
+    height: 0;
+
+    background: var(--accent);
+
+    transition: height 0.25s ease;
+}
+
+
+.projects-card:hover {
+
+    transform:
+        translateY(-6px);
+
+    border-color:
+        rgba(255, 49, 95, 0.6);
+
+    background:
+        var(--panel-hover);
+}
+
+
+.projects-card:hover::before {
+
+    height: 100%;
+}
+
+
+/* ==========================================
+                CARD CONTENT
+===========================================*/
+
+
+.project-number {
+
+    color: var(--text-muted);
+
+    font-family:
+        monospace;
+
+    font-size: 12px;
+
+    letter-spacing: 2px;
+}
+
+
+.project-icon {
+
+    font-size: 42px;
+
+    margin: 25px 0;
+}
+
+
+.project-card h3 {
+
+    font-size: 25px;
+
+    margin-bottom: 10px;
+
+    letter-spacing: -0.5px;
+}
+
+
+.project-card p {
+
+    color: var(--text-muted);
+
+    font-size: 14px;
+
+    line-height: 1.6;
+}
+
+
+.project-arrow {
+
+    align-self: flex-end;
+
+    margin-top: 25px;
+
+    color: var(--accent);
+
+    font-size: 22px;
+
+    transition:
+        transform 0.25s ease;
+}
+
+
+.project-card:hover .project-arrow {
+ 
+    transform:
+        translateX(7px);
+}
+
+
+/* ==========================================
+                FOOTER
+===========================================*/
+
+
+footer {
+
+    padding-bottom: 40PX;
+}
+
+
+.footer-line {
+
+    width: 100%;
+
+    height: 1px;
+
+    background: var(--border);
+
+    margin-bottom: 25px;
+}
+
+
+.footer-content {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 20px;
+
+    color: var(--text-muted);
+
+    font-family: monospace;
+
+    font-size: 11px;
+
+    letter-spacing: 1px;
+}
+
+
+.footer-content span {
+
+    color: var(--accent);
+}
+
+
+/* ==========================================
+                EMPTY STATE
+===========================================*/
+
+
+.empty-message {
+
+    padding: 80px 20px;
+
+    text-align: center;
+
+    border: 1px dashed var(--border);
+
+    color: var(--text-muted);
+}
+
+
+/* ==========================================
+                MOBILE
+===========================================*/
+
+
+@media (max-width: 700px) {
+
+    main {
+
+        width: min(
+            calc(100% - 25%),
+            var(--max-width)
+        );
+    }
+
+
+    .hero{
+
+        min-height: 75vh;
+
+        padding-top: 60px;
+    }
+
+
+    .hero h1 {
+
+        letter-spacing: -3px;
+    }
+
+
+    .hero-description {
+
+        font-size: 16px;
+    }
+
+
+    .section-heading {
+
+        align-items: flex-start;
+
+        flex-direction: column;
+    }
+
+
+    .projects-grid {
+
+        grid-template-columns: 1fr;
+    }
+
+
+    .project-card {
+
+        min-height: 220px;
+    }
+
+
+    .footer-content {
+
+        flex-direction: column;
+    }
+}
