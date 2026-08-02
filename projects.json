@@ -3,48 +3,48 @@
         "name": "About Me",
         "description": "Who am I?",
         "url": "about/",
-        "catagory": "INFO"
+        "category": "INFO"
     },
 
     {
         "name": "Contact",
         "description": "Dont talk to me",
         "url": "contact/",
-        "catagory": "INFO"
+        "category": "INFO"
     },
 
     {
         "name": "Movie wheel",
         "description": "Spin a wheel and watch a movie",
         "url": "movies-wheel/",
-        "catagory": "PROJECT"
+        "category": "PROJECT"
     },
 
     {
         "name": "Alice collection",
         "description": "I like to hoard alice stuff",
         "url": "alice-collection/",
-        "catagory": "PROJECT"
+        "category": "PROJECT"
     },
 
     {
         "name": "Alice tierlist",
         "description": "Watching every alice movie ever made for whatever reason",
         "url": "alice-tierlist/",
-        "catagory": "PROJECT"
+        "category": "PROJECT"
     },
 
     {
         "name": "Movies i own on dvd",
         "description": "I like physical media and movies are great",
         "url": "i-own-dvd's/",
-        "catagory": "PROJECT"
+        "category": "PROJECT"
     },
 
     {
         "name": "Weird site",
         "description": "Yea i made some weird shit",
         "url": "weird/",
-        "catagory": "PROJECT"
+        "category": "PROJECT"
     }
 ]

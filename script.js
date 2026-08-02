@@ -1,4 +1,6 @@
-document.addEventListener("DOMContentLoaded", async () => {
+console.log("🔥 SCRIPT.JS IS RUNNING 🔥");
+
+document.addEventListener("DOMContentLoaded", () => {
 
     const projectsContainer =
         document.getElementById("projectsContainer");
@@ -13,149 +15,99 @@ document.addEventListener("DOMContentLoaded", async () => {
         document.getElementById("year");
 
 
-    // Set current year
-    if (year) {
-        year.textContent = new Date().getFullYear();
-    }
+    // Current year
+
+    year.textContent =
+        new Date().getFullYear();
 
 
-    try {
+    // Load projects
 
-        console.log("Loading projects.json...");
+    fetch("projects.json")
+        .then(response => {
 
-        const response = await fetch("./projects.json");
-
-        console.log("Response:", response);
-
-
-        if (!response.ok) {
-            throw new Error(
-                `HTTP ${response.status}: ${response.statusText}`
-            );
-        }
-
-
-        const projects = await response.json();
-
-        console.log("Projects loaded:", projects);
-
-
-        // Make sure the JSON contains an array
-        if (!Array.isArray(projects)) {
-            throw new Error(
-                "projects.json must contain an array of projects."
-            );
-        }
-
-
-        // Update project count
-        if (projectCount) {
-            projectCount.textContent = projects.length;
-        }
-
-
-        // No projects
-        if (projects.length === 0) {
-
-            if (emptyMessage) {
-                emptyMessage.hidden = false;
-                emptyMessage.innerHTML = `
-                    <p>
-                        No projects have been added yet.
-                    </p>
-                `;
+            if (!response.ok) {
+                throw new Error(
+                    "Could not load projects.json"
+                );
             }
 
-            return;
-        }
+            return response.json();
+
+        })
+
+        .then(projects => {
+
+            projectCount.textContent =
+                projects.length;
 
 
-        // Create project cards
-        projects.forEach((project, index) => {
+            if (projects.length === 0) {
 
-            const card =
-                document.createElement("a");
+                emptyMessage.hidden = false;
 
-
-            card.className = "project-card";
+                return;
+            }
 
 
-            // Project URL
-            card.href = project.url;
+            projects.forEach((project, index) => {
+
+                const card =
+                    document.createElement("a");
+
+                card.classList.add("projects-card");
+
+                card.href = project.url;
 
 
-            // Make sure the link works normally
-            card.target = "_self";
+                card.innerHTML = `
 
+                    <div>
 
-            card.innerHTML = `
+                        <div class="project-number">
+                            ${String(index + 1).padStart(2, "0")}
+                            // ${project.category || "PROJECT"}
+                        </div>
 
-                <div>
+                        <div class="project-icon">
+                            ${project.icon || "✦"}
+                        </div>
 
-                    <div class="project-number">
-                        ${String(index + 1).padStart(2, "0")}
-                        // ${project.category || "PROJECT"}
+                        <h3>
+                            ${project.name}
+                        </h3>
+
+                        <p>
+                            ${project.description}
+                        </p>
+
                     </div>
 
-                    <div class="project-icon">
-                        ${project.icon || "✦"}
+                    <div class="project-arrow">
+                        →
                     </div>
 
-                    <h3>
-                        ${project.name || "Unnamed Project"}
-                    </h3>
-
-                    <p>
-                        ${project.description || ""}
-                    </p>
-
-                </div>
-
-                <div class="project-arrow">
-                    →
-                </div>
-
-            `;
+                `;
 
 
-            projectsContainer.appendChild(card);
+                projectsContainer.appendChild(card);
 
-        });
+            });
 
+        })
 
-        console.log(
-            `Successfully loaded ${projects.length} projects.`
-        );
+        .catch(error => {
 
-    }
-
-
-    catch (error) {
-
-        console.error(
-            "PROJECT DIRECTORY ERROR:",
-            error
-        );
-
-
-        if (emptyMessage) {
+            console.error(error);
 
             emptyMessage.hidden = false;
 
             emptyMessage.innerHTML = `
-
                 <p>
                     Couldn't load the project directory.
                 </p>
-
-                <small>
-                    Check the browser console for details.
-                </small>
-
             `;
 
-        }
-
-    }
+        });
 
 });

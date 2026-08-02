@@ -446,7 +446,7 @@ main {
 }
 
 
-.project-card h3 {
+.projects-card h3 {
 
     font-size: 25px;
 
@@ -456,7 +456,7 @@ main {
 }
 
 
-.project-card p {
+.projects-card p {
 
     color: var(--text-muted);
 
@@ -481,7 +481,7 @@ main {
 }
 
 
-.project-card:hover .project-arrow {
+.projects-card:hover .project-arrow {
  
     transform:
         translateX(7px);
@@ -602,7 +602,7 @@ footer {
     }
 
 
-    .project-card {
+    .projects-card {
 
         min-height: 220px;
     }
