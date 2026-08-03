@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Movie Wheel // My Corner</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+    <!-- Background -->
+    <div class="background-noise"></div>
+    <div class="background-grid"></div>
+
+
+    <!-- Header -->
+    <header class="subpage-header">
+
+        <a href="index.html" class="back-link">
+            <span class="arrow">←</span>
+            MOVIE CATEGORIES
+        </a>
+
+        <div class="header-tag">
+            <span class="status-dot"></span>
+            RANDOMIZER
+        </div>
+
+    </header>
+
+
+    <main class="subpage-main">
+
+        <!-- Wheel heading -->
+        <section class="project-intro wheel-intro">
+
+            <p class="eyebrow">// MOVIE SELECTION</p>
+
+            <h1 id="wheel-title">LOADING...</h1>
+
+            <p class="description" id="movie-count">
+                Loading movies...
+            </p>
+
+        </section>
+
+
+        <!-- Wheel -->
+        <section class="wheel-section">
+
+            <div class="wheel-wrapper">
+
+                <!-- Pointer -->
+                <div class="wheel-pointer">
+                    ▼
+                </div>
+
+                <canvas
+                    id="wheel"
+                    width="700"
+                    height="700"
+                ></canvas>
+
+            </div>
+
+
+            <!-- Controls -->
+            <div class="wheel-controls">
+
+                <button
+                    id="spin-button"
+                    class="spin-button"
+                    type="button"
+                >
+                    SPIN
+                </button>
+
+            </div>
+
+
+            <!-- Result -->
+            <div
+                id="result"
+                class="wheel-result"
+                aria-live="polite"
+            >
+
+                <span class="result-label">
+                    THE CHOSEN MOVIE
+                </span>
+
+                <span
+                    id="result-movie"
+                    class="result-movie"
+                >
+                    SPIN THE WHEEL
+                </span>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="wheel.js"></script>
+
+</body>
+</html>

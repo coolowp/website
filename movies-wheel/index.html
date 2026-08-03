@@ -1,18 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta charset="UTF-8">
+    <title>Movie Wheel // My Corner</title>
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
 
-        <meta
-            name="description"
-            content="A collection of shit ive made for whatever damn reason it so be"
-        >
+<body>
 
-        <title>My corner of the internet</title>
+    <!-- Background -->
+    <div class="background-noise"></div>
+    <div class="background-grid"></div>
 
-        <link rel="stylesheet" href="style.css">
-    </head>
+    <!-- Header -->
+    <header class="subpage-header">
+
+        <a href="../" class="back-link">
+            <span class="arrow">←</span>
+            DIRECTORY
+        </a>
+
+        <div class="header-tag">
+            <span class="status-dot"></span>
+            MOVIE DATABASE
+        </div>
+
+    </header>
+
+
+    <main class="subpage-main">
+
+        <!-- Introduction -->
+        <section class="project-intro">
+
+            <p class="eyebrow">// MOVIE WHEEL</p>
+
+            <h1>WHAT ARE WE WATCHING?</h1>
+
+            <p class="description">
+                Pick a category and let fate decide what movie we're watching.
+            </p>
+
+        </section>
+
+
+        <!-- Categories -->
+        <section class="movie-categories">
+
+            <a
+                class="movie-category"
+                href="wheel.html?list=disney-want.txt"
+            >
+                <span class="category-number">01</span>
+
+                <span class="category-content">
+                    <span class="category-title">
+                        Disney Movies We Want To Watch
+                    </span>
+
+                    <span class="category-description">
+                        The good ones. Hopefully.
+                    </span>
+                </span>
+
+                <span class="category-arrow">→</span>
+            </a>
+
+
+            <a
+                class="movie-category"
+                href="wheel.html?list=disney-dont-want.txt"
+            >
+                <span class="category-number">02</span>
+
+                <span class="category-content">
+                    <span class="category-title">
+                        Disney Movies We Don't Want To Watch
+                    </span>
+
+                    <span class="category-description">
+                        The cinematic punishment wheel.
+                    </span>
+                </span>
+
+                <span class="category-arrow">→</span>
+            </a>
+
+
+            <a
+                class="movie-category"
+                href="wheel.html?list=just-movies.txt"
+            >
+                <span class="category-number">03</span>
+
+                <span class="category-content">
+                    <span class="category-title">
+                        Just Movies
+                    </span>
+
+                    <span class="category-description">
+                        No rules. Just movies.
+                    </span>
+                </span>
+
+                <span class="category-arrow">→</span>
+            </a>
+
+        </section>
+
+    </main>
+
+</body>
+</html>

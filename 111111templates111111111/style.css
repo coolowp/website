@@ -1,0 +1,152 @@
+/* =========================================
+   BASE SUBPAGE STYLES (Matches Main Site)
+========================================= */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --background: #09090b;
+    --panel: #111116;
+    --text: #eeeeee;
+    --text-muted: #85858f;
+    --accent: #ff315f;
+    --border: #292932;
+    --max-width: 1200px;
+}
+
+body {
+    min-height: 100vh;
+    background: 
+        radial-gradient(
+            circle at 50% -20%,
+            rgba(255, 49, 95, 0.12),
+            transparent 45%
+        ),
+        var(--background);
+    color: var(--text);
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+/* Background Deco */
+.background-noise {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.035;
+    z-index: -1;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+}
+
+.background-grid {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: -2;
+    opacity: 0.08;
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+    background-size: 20px 20px;
+}
+
+/* =========================================
+   HEADER & NAVIGATION
+========================================= */
+
+.subpage-header {
+    width: min(calc(100% - 40px), var(--max-width));
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 13px;
+    letter-spacing: 2px;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.back-link:hover {
+    color: var(--accent);
+    transform: translateX(-4px);
+}
+
+.header-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.02);
+    color: var(--text-muted);
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.status-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px rgba(255, 49, 95, 0.8);
+}
+
+/* =========================================
+   PAGE CONTENT
+========================================= */
+
+.subpage-main {
+    width: min(calc(100% - 40px), var(--max-width));
+    margin: 0 auto;
+    padding-bottom: 80px;
+}
+
+.project-intro {
+    padding: 40px 0 60px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 40px;
+}
+
+.eyebrow {
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+.project-intro h1 {
+    font-size: clamp(36px, 6vw, 70px);
+    letter-spacing: -2px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+.description {
+    color: var(--text-muted);
+    font-size: 16px;
+    max-width: 600px;
+    line-line-height: 1.6;
+}
+
+/* =========================================
+   SANDBOX AREA (Add your custom CSS below)
+========================================= */
+
+.sandbox {
+    min-height: 300px;
+}
