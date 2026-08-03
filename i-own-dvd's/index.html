@@ -1,18 +1,263 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta charset="UTF-8">
+    <title>Windows XP // My Movies</title>
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
 
-        <meta
-            name="description"
-            content="A collection of shit ive made for whatever damn reason it so be"
-        >
+<body>
 
-        <title>My corner of the internet</title>
+    <!-- =========================================
+         WINDOWS XP BOOT SCREEN
+    ========================================== -->
 
-        <link rel="stylesheet" href="style.css">
-    </head>
+    <div id="boot-screen">
+
+        <div class="boot-content">
+
+            <div class="boot-microsoft">
+                Microsoft
+            </div>
+
+            <div class="boot-windows">
+
+                <span class="boot-flag red"></span>
+                <span class="boot-flag green"></span>
+                <span class="boot-flag blue"></span>
+                <span class="boot-flag yellow"></span>
+
+            </div>
+
+            <div class="boot-xp">
+                Windows<span>XP</span>
+            </div>
+
+
+            <div class="boot-loading">
+
+                <div class="boot-loading-track">
+
+                    <div class="boot-loading-block"></div>
+                    <div class="boot-loading-block"></div>
+                    <div class="boot-loading-block"></div>
+
+                </div>
+
+            </div>
+
+
+            <div class="boot-copyright">
+
+                Copyright © Microsoft Corporation
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+    <!-- =========================================
+         XP DESKTOP
+    ========================================== -->
+
+    <main id="desktop">
+
+        <!-- Desktop Icons -->
+
+        <div class="desktop-icons">
+
+            <div class="desktop-icon" data-action="my-movies">
+                <div class="desktop-icon-image">📁</div>
+                <span>My Movies</span>
+            </div>
+
+            <div class="desktop-icon" data-action="my-computer">
+                <div class="desktop-icon-image">🖥️</div>
+                <span>My Computer</span>
+            </div>
+
+            <div class="desktop-icon" data-action="site">
+                <div class="desktop-icon-image">🌐</div>
+                <span>My Corner</span>
+            </div>
+
+            <div class="desktop-icon" data-action="recycle">
+                <div class="desktop-icon-image">🗑️</div>
+                <span>Recycle Bin</span>
+            </div>
+
+        </div>
+
+
+        <!-- =====================================
+             WINDOWS
+        ====================================== -->
+
+        <div id="window-area"></div>
+
+
+        <!-- =====================================
+             START MENU
+        ====================================== -->
+
+        <div id="start-menu" class="start-menu hidden">
+
+            <div class="start-header">
+
+                <div class="start-avatar">
+                    👤
+                </div>
+
+                <span>User</span>
+
+            </div>
+
+
+            <div class="start-content">
+
+                <div class="start-column">
+
+                    <button
+                        class="start-item"
+                        data-action="my-movies"
+                    >
+                        <span>📁</span>
+                        <strong>My Movies</strong>
+                    </button>
+
+                    <button
+                        class="start-item"
+                        data-action="my-computer"
+                    >
+                        <span>🖥️</span>
+                        <strong>My Computer</strong>
+                    </button>
+
+                    <button
+                        class="start-item"
+                        data-action="site"
+                    >
+                        <span>🌐</span>
+                        <strong>My Corner</strong>
+                    </button>
+
+                </div>
+
+
+                <div class="start-column right">
+
+                    <button class="start-item">
+                        <span>⚙️</span>
+                        Control Panel
+                    </button>
+
+                    <button class="start-item">
+                        <span>🔍</span>
+                        Search
+                    </button>
+
+                    <button class="start-item">
+                        <span>❓</span>
+                        Help and Support
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div class="start-footer">
+
+                <button>
+                    💤 Stand By
+                </button>
+
+                <button>
+                    🔴 Turn Off Computer
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================
+             RIGHT CLICK MENU
+        ====================================== -->
+
+        <div id="context-menu" class="context-menu hidden">
+
+            <button onclick="location.reload()">
+                🔄 Refresh
+            </button>
+
+            <div class="context-divider"></div>
+
+            <button>
+                📋 Paste
+            </button>
+
+            <button>
+                📄 Paste Shortcut
+            </button>
+
+            <div class="context-divider"></div>
+
+            <button>
+                ⚙️ Properties
+            </button>
+
+        </div>
+
+
+        <!-- =====================================
+             TASKBAR
+        ====================================== -->
+
+        <footer class="taskbar">
+
+            <button
+                id="start-button"
+                class="start-button"
+            >
+                <span class="windows-logo">⊞</span>
+                <strong>start</strong>
+            </button>
+
+
+            <div
+                id="taskbar-windows"
+                class="taskbar-windows"
+            ></div>
+
+
+            <div class="system-tray">
+
+                <span>🔊</span>
+
+                <span>📶</span>
+
+                <span id="clock">
+                    12:00 PM
+                </span>
+
+            </div>
+
+        </footer>
+
+    </main>
+
+
+    <script src="movies.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
