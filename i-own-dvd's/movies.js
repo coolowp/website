@@ -838,6 +838,17 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Antibody",
+            releaseDate: "2002",
+            poster: "posters/Antibody.jpg",
+            genre: "Action, Horror, Science Fiction, Thriller",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
     ],
 
 
