@@ -67,6 +67,336 @@ const movieDatabase = {
             type: "Movie"
 
         },
+
+        {
+            title: "The Gate",
+            releaseDate: "1987",
+            poster: "posters/The-Gate.jpg",
+            genre: "Horror, Fantasy",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bird with the Crystal Plumage",
+            releaseDate: "1970",
+            poster: "posters/Bird-with-the-Crystal-Plumage.jpg",
+            genre: "Horror, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jaws",
+            releaseDate: "1975",
+            poster: "posters/Jaws.jpg",
+            genre: "Horror, Thriller, Adventure",
+            format: "DVD",
+            playtime: "2h 04min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Fair Haired Child",
+            releaseDate: "2006",
+            poster: "posters/The-Fair-Haired-Child.jpg",
+            genre: "Horror, TV Movie",
+            format: "DVD",
+            playtime: "55min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Shaun of the Dead",
+            releaseDate: "2004",
+            poster: "posters/Shaun-of-the-Dead.jpg",
+            genre: "Horror, Comedy",
+            format: "DVD",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Slither",
+            releaseDate: "2006",
+            poster: "posters/Slither.jpg",
+            genre: "Horror, Science Fiction, Comedy",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Night of the Living Dead",
+            releaseDate: "1968",
+            poster: "posters/Night-of-the-Living-Dead.jpg",
+            genre: "Horror, Thriller, Science Fiction",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "When a Stranger Calls",
+            releaseDate: "2006",
+            poster: "posters/When-a-Stranger-Calls.jpg",
+            genre: "Horror, Mystery",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "All the Boys Love Mandy Lane",
+            releaseDate: "2006",
+            poster: "posters/All-the-Boys-Love-Mandy-Lane.jpg",
+            genre: "Horror, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Meet the Feebles",
+            releaseDate: "1989",
+            poster: "posters/Meet-the-Feebles.jpg",
+            genre: "Horror, Comedy, Music, Fantasy",
+            format: "DVD",
+            playtime: "1h 33min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Prom Night",
+            releaseDate: "2008",
+            poster: "posters/Prom-Night.jpg",
+            genre: "Horror, Drama, Mystery",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Repo! The Genetic Opera",
+            releaseDate: "2008",
+            poster: "posters/Repo-The-Genetic-Opera.jpg",
+            genre: "Horror, Science Fiction, Music",
+            format: "DVD",
+            playtime: "1h 38min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Blair Witch 2: Book of Shadows",
+            releaseDate: "2000",
+            poster: "posters/Blair-Witch-2-Book-of-Shadows.jpg",
+            genre: "Horror, Mystery",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jeepers Creepers 2",
+            releaseDate: "2003",
+            poster: "posters/Jeepers-Creepers-2.jpg",
+            genre: "Horror",
+            format: "DVD",
+            playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jeepers Creepers",
+            releaseDate: "2001",
+            poster: "posters/Jeepers-Creepers.jpg",
+            genre: "Horror",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ghost Lake",
+            releaseDate: "2004",
+            poster: "posters/Ghost-Lake.jpg",
+            genre: "Horror, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 52min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "I'll Always Know What You Did Last Summer",
+            releaseDate: "2006",
+            poster: "posters/Ill-Always-Know-What-You-Did-Last-Summer.jpg",
+            genre: "Horror",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Santastein",
+            releaseDate: "2024",
+            poster: "posters/Santastein.jpg",
+            genre: "Horror, Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "House of Wax",
+            releaseDate: "2005",
+            poster: "posters/House-of-Wax.jpg",
+            genre: "Horror, Thriller, Mystery",
+            format: "DVD",
+            playtime: "1h 53min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "30 Days of Night: Dark Days",
+            releaseDate: "2010",
+            poster: "posters/30-Days-of-Night-Dark-Days.jpg",
+            genre: "Horror, Thriller",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Paranormal Activity 3",
+            releaseDate: "2011",
+            poster: "posters/Paranormal-Activity-3.jpg",
+            genre: "Horror, Mystery",
+            format: "DVD",
+            playtime: "1h 23min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Forbandelsen The Grudge",
+            releaseDate: "2004",
+            poster: "posters/Forbandelsen-The-Grudge.jpg",
+            genre: "Horror, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Blair Witch Project",
+            releaseDate: "1999",
+            poster: "posters/Blair-Witch-Project.jpg",
+            genre: "Horror, Mystery",
+            format: "DVD",
+            playtime: "1h 21min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Grudge",
+            releaseDate: "2019",
+            poster: "posters/The-Grudge.jpg",
+            genre: "Horror, Mystery",
+            format: "Blu-ray",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Chernobyl Diaries",
+            releaseDate: "2012",
+            poster: "posters/Chernobyl-Diaries.jpg",
+            genre: "Horror, Thriller",
+            format: "Blu-ray",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Deer Woman",
+            releaseDate: "2005",
+            poster: "posters/Deer-Woman.jpg",
+            genre: "Horror",
+            format: "DVD",
+            playtime: "1h 00min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Others",
+            releaseDate: "2001",
+            poster: "posters/The-Others.jpg",
+            genre: "Horror, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 41min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Motorsavs Massakren",
+            releaseDate: "1974",
+            poster: "posters/Motorsavs-Massakren.jpg",
+            genre: "Horror",
+            format: "DVD",
+            playtime: "1h 23min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Apollo 18",
+            releaseDate: "2011",
+            poster: "posters/Apollo-18.jpg",
+            genre: "Horror, Thriller, Science Fiction",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Resident Evil: Apocalypse",
+            releaseDate: "2004",
+            poster: "posters/Resident-Evil-Apocalypse.jpg",
+            genre: "Horror, Action, Science Fiction",
+            format: "DVD",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
             
         
 
@@ -114,6 +444,182 @@ const movieDatabase = {
             genre: "Drama, Horror, Mystery, Thriller",
             format: "DVD",
             playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fifty Shades Freed",
+            releaseDate: "2018",
+            poster: "posters/Fifty-Shades-Freed.jpg",
+            genre: "Drama, Romance",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Lolita",
+            releaseDate: "1997",
+            poster: "posters/Lolita.jpg",
+            genre: "Drama",
+            format: "DVD",
+            playtime: "2h 17min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Torka aldrig tårar utan handskar",
+            releaseDate: "2012",
+            poster: "posters/Torka-aldrig-tårar-utan-handskar.jpg",
+            genre: "Drama",
+            format: "DVD",
+            playtime: "1h 00min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Hot Dog",
+            releaseDate: "2002",
+            poster: "posters/Hot-Dog.jpg",
+            genre: "Drama, Romance",
+            format: "DVD",
+            playtime: "1h 31min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Lady in the Water",
+            releaseDate: "Lady-in-the-Water",
+            poster: "posters/Lady-in-the-Water.jpg",
+            genre: "Drama, Fantasy, Mystery",
+            format: "DVD",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Coco Before Chanel",
+            releaseDate: "2009",
+            poster: "posters/Coco-Before-Chanel.jpg",
+            genre: "Drama, History",
+            format: "DVD",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Sisterhood of the Traveling Pants",
+            releaseDate: "2005",
+            poster: "posters/The-Sisterhood-of-the-Traveling-Pants.jpg",
+            genre: "Drama, Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 59min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Mothman Prophecies",
+            releaseDate: "2002",
+            poster: "posters/The-Mothman-Prophecies.jpg",
+            genre: "Drama, Horror, Mystery",
+            format: "DVD",
+            playtime: "1h 59min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Romeo + Juliet",
+            releaseDate: "1996",
+            poster: "posters/Romeo-Juliet.jpg",
+            genre: "Drama, Romance",
+            format: "DVD",
+            playtime: "2h 00min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Brokeback Mountain",
+            releaseDate: "2005",
+            poster: "posters/Brokeback-Mountain.jpg",
+            genre: "Drama, Romance",
+            format: "DVD",
+            playtime: "2h 14min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Diary of a Mad Black Woman",
+            releaseDate: "2005",
+            poster: "posters/Diary-of-a-Mad-Black-Woman.jpg",
+            genre: "Drama, Romance, Comedy",
+            format: "DVD",
+            playtime: "1h 56min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fifty Shades Darker",
+            releaseDate: "2017",
+            poster: "posters/Fifty-Shades-Darker.jpg",
+            genre: "Drama, Romance",
+            format: "Blu-ray",
+            playtime: "1h 58min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fifty Shades of Grey",
+            releaseDate: "2015",
+            poster: "posters/Fifty-Shades-of-Grey.jpg",
+            genre: "Drama, Romance",
+            format: "Blu-ray",
+            playtime: "2h 05min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Devil Wears Prada",
+            releaseDate: "2006",
+            poster: "posters/The-Devil-Wears-Prada.jpg",
+            genre: "Drama, Comedy",
+            format: "DVD",
+            playtime: "1h 49min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Great Gatsby",
+            releaseDate: "2013",
+            poster: "posters/The-Great-Gatsby.jpg",
+            genre: "Drama, Romance",
+            format: "DVD",
+            playtime: "2h 23min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fight Club",
+            releaseDate: "1999",
+            poster: "posters/Fight-Club.jpg",
+            genre: "Drama, Thriller",
+            format: "DVD",
+            playtime: "2h 19min",
             type: "Movie"
 
         },
@@ -168,6 +674,237 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Grand Champion",
+            releaseDate: "2002",
+            poster: "posters/Grand-Champion.jpg",
+            genre: "Family, Comedy, Drama",
+            format: "DVD",
+            playtime: "1h 31min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Holiday in the Sun",
+            releaseDate: "2001",
+            poster: "posters/Holiday-in-the-Sun.jpg",
+            genre: "Family, Romance, Crime, Adventure",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pippi on the Run",
+            releaseDate: "1970",
+            poster: "posters/Pippi-on-the-Run.jpg",
+            genre: "Family, Adventure",
+            format: "DVD",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pippi Långstrump på de sju haven",
+            releaseDate: "1970",
+            poster: "posters/Pippi-Långstrump-på-de-sju-haven.jpg",
+            genre: "Family, Adventure",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Alvin and the Chipmunks: The Road Chip",
+            releaseDate: "2015",
+            poster: "posters/Alvin-and-the-Chipmunks-The-Road-Chip.jpg",
+            genre: "Family, Comedy, Music, Adventure, Animation",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Alvin and the Chipmunks: Chipwrecked",
+            releaseDate: "2011",
+            poster: "posters/Alvin-and-the-Chipmunks-Chipwrecked.jpg",
+            genre: "Family, Comedy, Music, Adventure, Animation",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Alvin and the Chipmunks: The Squeakquel",
+            releaseDate: "2009",
+            poster: "posters/Alvin-and-the-Chipmunks-The-Squeakquel.jpg",
+            genre: "Family, Comedy, Music, Adventure, Animation",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Alvin and the Chipmunks",
+            releaseDate: "2007",
+            poster: "posters/Alvin-and-the-Chipmunks.jpg",
+            genre: "Family, Comedy, Music, Adventure, Animation",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "We're the Millers",
+            releaseDate: "2013",
+            poster: "posters/Were-the-Millers.jpg",
+            genre: "Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The NeverEnding Story II: The Next Chapter",
+            releaseDate: "1990",
+            poster: "posters/The-NeverEnding-Story-II-The-Next-Chapter.jpg",
+            genre: "Family, Fantasy, Adventure, Drama",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The NeverEnding Story",
+            releaseDate: "1984",
+            poster: "posters/The-NeverEnding-Story.jpg",
+            genre: "Family, Fantasy, Adventure, Drama",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Asterix & Obelix: Mission Cleopatra",
+            releaseDate: "2002",
+            poster: "posters/Asterix-&-Obelix-Mission-Cleopatra.jpg",
+            genre: "Family, Fantasy, Comedy, Adventure",
+            format: "DVD",
+            playtime: "1h 48min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Asterix and Obelix vs. Caesar",
+            releaseDate: "1999",
+            poster: "posters/Asterix-and-Obelix-vs-Caesar.jpg",
+            genre: "Family, Fantasy, Comedy, Adventure",
+            format: "DVD",
+            playtime: "1h 49min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Asterix at the Olympic Games",
+            releaseDate: "2008",
+            poster: "posters/Asterix-at-the-Olympic-Games.jpg",
+            genre: "Family, Fantasy, Comedy, Adventure",
+            format: "DVD",
+            playtime: "1h 56min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bølle Bob og smukke Sally",
+            releaseDate: "2005",
+            poster: "posters/Bølle-Bob-og-smukke-Sally.jpg",
+            genre: "Family, Music",
+            format: "DVD",
+            playtime: "1h 49min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Disco ormene",
+            releaseDate: "2008",
+            poster: "posters/Disco-ormene.jpg",
+            genre: "Family, Animation, Comedy",
+            format: "DVD",
+            playtime: "1h 19min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "G-Force",
+            releaseDate: "2009",
+            poster: "posters/G-Force.jpg",
+            genre: "Family, Fantasy, Action, Adventure, Comedy",
+            format: "DVD",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Descendants",
+            releaseDate: "2015",
+            poster: "posters/Descendants.jpg",
+            genre: "Family, Adventure, Fantasy, TV Movie, Music",
+            format: "DVD",
+            playtime: "1h 52min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bean's Holiday",
+            releaseDate: "2007",
+            poster: "posters/Beans-Holiday.jpg",
+            genre: "Family, Comedy",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Asterix and the Vikings",
+            releaseDate: "2006",
+            poster: "posters/Asterix-and-the-Vikings.jpg",
+            genre: "Family, Animation, Comedy, Adventure",
+            format: "DVD",
+            playtime: "1h 18min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Valiant",
+            releaseDate: "2005",
+            poster: "posters/Valiant.jpg",
+            genre: "Family, Animation, Adventure, Comedy, War",
+            format: "DVD",
+            playtime: "1h 16min",
+            type: "Movie"
+
+        },
+
     ],
 
 
@@ -190,6 +927,83 @@ const movieDatabase = {
             genre: "Thriller, Horror, TV Movie",
             format: "DVD",
             playtime: "58min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Seduced and Betrayed",
+            releaseDate: "1995",
+            poster: "posters/Seduced-and-Betrayed.jpg",
+            genre: "Thriller, Drama, Romance, TV Movie",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Now You See Me",
+            releaseDate: "2013",
+            poster: "posters/Now-You-See-Me.jpg",
+            genre: "Thriller, Crime",
+            format: "DVD",
+            playtime: "1h 56min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Cocaine Bear",
+            releaseDate: "2023",
+            poster: "posters/Cocaine-Bear.jpg",
+            genre: "Thriller, Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Boogeyman",
+            releaseDate: "2005",
+            poster: "posters/Boogeyman.jpg",
+            genre: "Thriller, Horror, Drama, Mystery",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Red Riding Hood",
+            releaseDate: "2011",
+            poster: "posters/Red-Riding-Hood.jpg",
+            genre: "Thriller, Drama, Fantasy, Mystery, Horror, Romance",
+            format: "Blu-ray",
+            playtime: "1h 40min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ghost Rider",
+            releaseDate: "2007",
+            poster: "posters/Ghost-Rider.jpg",
+            genre: "Thriller, Action, Fantasy",
+            format: "DVD",
+            playtime: "1h 54min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pulp Fiction",
+            releaseDate: "1994",
+            poster: "posters/Pulp-Fiction.jpg",
+            genre: "Thriller, Crime, Comedy",
+            format: "DVD",
+            playtime: "2h 34min",
             type: "Movie"
 
         },
@@ -583,6 +1397,688 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Our Lips Are Sealed",
+            releaseDate: "2000",
+            poster: "posters/Our-Lips-Are-Sealed.jpg",
+            genre: "Comedy, Family, Crime",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Suck",
+            releaseDate: "2009",
+            poster: "posters/Suck.jpg",
+            genre: "Comedy, Horror, Music",
+            format: "DVD",
+            playtime: "1h 31min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "En Amerikansk Varulv I London",
+            releaseDate: "1981",
+            poster: "posters/En-Amerikansk-Varulv-I-London.jpg",
+            genre: "Comedy, Horror, Fantasy",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nuns on the Run",
+            releaseDate: "1990",
+            poster: "posters/Nuns-on-the-Run.jpg",
+            genre: "Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Desperate But Not Serious",
+            releaseDate: "v",
+            poster: "posters/Desperate-But-Not-Serious.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Date Movie",
+            releaseDate: "2006",
+            poster: "posters/Date-Movie.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 23min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Shriek If You Know What I Did Last Friday the Thirteenth",
+            releaseDate: "2000",
+            poster: "posters/Shriek-If-You-Know-What-I-Did-Last-Friday-the-Thirteenth.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Don't Tell Mom the Babysitter's Dead",
+            releaseDate: "1991",
+            poster: "posters/Dont-Tell-Mom-the-Babysitters-Dead.jpg",
+            genre: "Comedy, Family",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Friends with Kids",
+            releaseDate: "2012",
+            poster: "posters/Friends-with-Kids.jpg",
+            genre: "Comedy, Drama, Romance",
+            format: "DVD",
+            playtime: "1h 40min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Winning London",
+            releaseDate: "2001",
+            poster: "posters/Winning-London.jpg",
+            genre: "Comedy, Family, Adventure",
+            format: "DVD",
+            playtime: "1h 33min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Kanelia kainaloon, Tatu ja Patu!",
+            releaseDate: "2016",
+            poster: "posters/Kanelia-kainaloon-Tatu-ja-Patu!.jpg",
+            genre: "Comedy, Family",
+            format: "DVD",
+            playtime: "1h 15min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "All Babes Want To Kill Me",
+            releaseDate: "2005",
+            poster: "posters/All-Babes-Want-To-Kill-Me.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 22min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sex Drive",
+            releaseDate: "2008",
+            poster: "posters/Sex-Drive.jpg",
+            genre: "Comedy, Adventure, Romance",
+            format: "DVD",
+            playtime: "1h 49min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Human Traffic",
+            releaseDate: "1999",
+            poster: "posters/Human-Traffic.jpg",
+            genre: "Comedy, Drama",
+            format: "DVD",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Barbie",
+            releaseDate: "2023",
+            poster: "posters/Barbie.jpg",
+            genre: "Comedy, Adventure, Fantasy",
+            format: "DVD",
+            playtime: "1h 54min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Cheech And Chong’s Get Out of My Room!",
+            releaseDate: "1985",
+            poster: "posters/Cheech-And-Chong’s-Get-Out-of-My-Room.jpg",
+            genre: "Comedy, Music",
+            format: "DVD",
+            playtime: "53min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Mr. Bones",
+            releaseDate: "2001",
+            poster: "posters/Mr-Bones.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Juno",
+            releaseDate: "2007",
+            poster: "posters/Juno.jpg",
+            genre: "Comedy, Drama, Romance",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Hjälp! Hela Första Säsongen",
+            releaseDate: "2007",
+            poster: "posters/Hjälp-Hela-Första-Säsongen.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "4h 20min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "The Best Little Whorehouse in Texas",
+            releaseDate: "1982",
+            poster: "posters/The-Best-Little-Whorehouse-in-Texas.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 54min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Magi På Waverly Place, Episode 1",
+            releaseDate: "2007",
+            poster: "posters/Magi-På-Waverly-Place-Episode-1.jpg",
+            genre: "Comedy, Sci-Fi & Fantasy, Kids",
+            format: "DVD",
+            playtime: "28min",
+            type: "TV-Series Episode"
+
+        },
+
+        {
+            title: "Hitch",
+            releaseDate: "2005",
+            poster: "posters/Hitch.jpg",
+            genre: "Comedy, Drama, Romance",
+            format: "DVD",
+            playtime: "1h 58min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bride Wars",
+            releaseDate: "2009",
+            poster: "posters/Bride-Wars.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ted",
+            releaseDate: "2012",
+            poster: "posters/Ted.jpg",
+            genre: "Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 47min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Min søsters børn i Ægypten",
+            releaseDate: "2004",
+            poster: "posters/Min-søsters-børn-i-Ægypten.jpg",
+            genre: "Comedy, Family",
+            format: "DVD",
+            playtime: "1h 19min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sorte kugler",
+            releaseDate: "2009",
+            poster: "posters/Sorte-kugler.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 22min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Piranha",
+            releaseDate: "2010",
+            poster: "posters/Piranha.jpg",
+            genre: "Comedy, Horror",
+            format: "DVD",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scary Movie 4",
+            releaseDate: "2006",
+            poster: "posters/Scary-Movie-4.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 23min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Yes Man",
+            releaseDate: "2008",
+            poster: "posters/Yes-Man.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Hairspray",
+            releaseDate: "2007",
+            poster: "posters/Hairspray.jpg",
+            genre: "Comedy, Romance, Drama",
+            format: "DVD",
+            playtime: "1h 57min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Hot Chick",
+            releaseDate: "2002",
+            poster: "posters/The-Hot-Chick.jpg",
+            genre: "Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Airplane II: The Sequel",
+            releaseDate: "1982",
+            poster: "posters/Airplane-II-The-Sequel.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 25min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Airplane!",
+            releaseDate: "1980",
+            poster: "posters/Airplane.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "American Poop Movie",
+            releaseDate: "2006",
+            poster: "posters/American-Poop-Movie.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nutty Professor",
+            releaseDate: "1996",
+            poster: "posters/Nutty-Professor.jpg",
+            genre: "Comedy, Romance, Science Fiction",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "50 First Dates",
+            releaseDate: "2004",
+            poster: "posters/50-First-Dates.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scary Movie 3",
+            releaseDate: "2003",
+            poster: "posters/Scary-Movie-3.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 24min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Beverly Hills Chihuahua 2",
+            releaseDate: "2011",
+            poster: "posters/Beverly-Hills-Chihuahua-2.jpg",
+            genre: "Comedy, Family",
+            format: "Blu-ray",
+            playtime: "1h 24min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Vampires Suck",
+            releaseDate: "2010",
+            poster: "posters/Vampires-Suck.jpg",
+            genre: "Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 22min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bruce Almighty",
+            releaseDate: "2003",
+            poster: "posters/Bruce-Almighty.jpg",
+            genre: "Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 41min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Breaking Wind",
+            releaseDate: "2012",
+            poster: "posters/Breaking-Wind.jpg",
+            genre: "Comedy, Fantasy",
+            format: "DVD",
+            playtime: "1h 22min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Mamma Mia!",
+            releaseDate: "2008",
+            poster: "posters/Mamma-Mia.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 48min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ace Ventura: Pet Detective",
+            releaseDate: "1994",
+            poster: "posters/Ace-Ventura-Pet-Detective.jpg",
+            genre: "Comedy, Mystery, Crime",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ace Ventura: When Nature Calls",
+            releaseDate: "1995",
+            poster: "posters/Ace-Ventura-When-Nature-Calls.jpg",
+            genre: "Comedy, Adventure, Crime",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Breakfast at Tiffany's",
+            releaseDate: "1961",
+            poster: "posters/Breakfast-at-Tiffanys.jpg",
+            genre: "Comedy, Romance, Drama",
+            format: "DVD",
+            playtime: "1h 55min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jensen & Jensen",
+            releaseDate: "2011",
+            poster: "posters/Jensen-&-Jensen.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 17min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bad Teacher",
+            releaseDate: "2011",
+            poster: "posters/Bad-Teacher.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bros",
+            releaseDate: "2022",
+            poster: "posters/Bros.jpg",
+            genre: "Comedy, Romance",
+            format: "Blu-ray",
+            playtime: "1h 55min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Gummi-Tarzan",
+            releaseDate: "1981",
+            poster: "posters/Gummi-Tarzan.jpg",
+            genre: "Comedy, Family",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fun with Dick and Jane",
+            releaseDate: "2005",
+            poster: "posters/Fun-with-Dick-and-Jane.jpg",
+            genre: "Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Big Momma's House 2",
+            releaseDate: "2006",
+            poster: "posters/Big-Mommas-House-2.jpg",
+            genre: "Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass Presents: Bad Grandpa",
+            releaseDate: "2013",
+            poster: "posters/Jackass-Presents-Bad-Grandpa.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass 3.5",
+            releaseDate: "2011",
+            poster: "posters/Jackass-3-5.jpg",
+            genre: "Comedy, Documentary, Action",
+            format: "DVD",
+            playtime: "1h 25min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass 3D",
+            releaseDate: "2010",
+            poster: "posters/Jackass-3D.jpg",
+            genre: "Comedy, Documentary, Action",
+            format: "DVD",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass Number Two",
+            releaseDate: "2006",
+            poster: "posters/Jackass-Number-Two.jpg",
+            genre: "Comedy, Documentary, Action",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass: The Movie",
+            releaseDate: "2002",
+            poster: "posters/Jackass-The-Movie.jpg",
+            genre: "Comedy, Documentary, Action",
+            format: "DVD",
+            playtime: "1h 25min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ørkenens Sønner: En sang fra de varme lande",
+            releaseDate: "2008",
+            poster: "posters/Ørkenens-Sønner-En-sang-fra-de-varme-lande.jpg",
+            genre: "Comedy, Music, Family",
+            format: "DVD",
+            playtime: "2h 13min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "White Men Can't Jump",
+            releaseDate: "1992",
+            poster: "posters/White-Men-Cant-Jump.jpg",
+            genre: "Comedy, Drama",
+            format: "DVD",
+            playtime: "1h 55min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "It's a Boy Girl Thing",
+            releaseDate: "2006",
+            poster: "posters/Its-a-Boy-Girl-Thing.jpg",
+            genre: "Comedy, Fantasy, Romance",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "She's the Man",
+            releaseDate: "2006",
+            poster: "posters/Shes-the-Man.jpg",
+            genre: "Comedy, Romance",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nacho Libre",
+            releaseDate: "2006",
+            poster: "posters/Nacho-Libre.jpg",
+            genre: "Comedy",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Forrest Gump",
+            releaseDate: "1994",
+            poster: "posters/Forrest-Gump.jpg",
+            genre: "Comedy, Drama, Romance",
+            format: "DVD",
+            playtime: "2h 22min",
+            type: "Movie"
+
+        },
+
     ],
 
 
@@ -638,6 +2134,28 @@ const movieDatabase = {
             genre: "Science Fiction, Action, Thriller, Adventure",
             format: "Blu-ray",
             playtime: "2h 11min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Transformers: Revenge of the Fallen",
+            releaseDate: "2009",
+            poster: "posters/Transformers-Revenge-of-the-Fallen.jpg",
+            genre: "Science Fiction, Action, Adventure",
+            format: "DVD",
+            playtime: "2h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Day After Tomorrow",
+            releaseDate: "2004",
+            poster: "posters/The-Day-After-Tomorrow.jpg",
+            genre: "AAScience Fiction, Thriller, AdventureAAAAAAAAA",
+            format: "DVD",
+            playtime: "2h 03min",
             type: "Movie"
 
         },
@@ -698,6 +2216,226 @@ const movieDatabase = {
             genre: "Adventure, Drama, Fantasy, Family",
             format: "DVD",
             playtime: "2h 06min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Brothers Lionheart",
+            releaseDate: "1977",
+            poster: "posters/The-Brothers-Lionheart.jpg",
+            genre: "Adventure, Fantasy, Family",
+            format: "DVD",
+            playtime: "1h 42min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The People That Time Forgot",
+            releaseDate: "1977",
+            poster: "posters/The-People-That-Time-Forgot.jpg",
+            genre: "Adventure, Fantasy, Science Fiction",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "AVP: Alien vs. Predator",
+            releaseDate: "2004",
+            poster: "posters/AVP-Alien-vs-Predator.jpg",
+            genre: "Adventure, Science Fiction, Action, Horror",
+            format: "DVD",
+            playtime: "1h 41min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Half-Blood Prince",
+            releaseDate: "2009",
+            poster: "posters/Harry-Potter-and-the-Half-Blood-Prince.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 33min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Det Gyldne Kompas",
+            releaseDate: "2007",
+            poster: "posters/Det-Gyldne-Kompas.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "1h 53min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Indiana Jones: Raiders of the Lost Ark",
+            releaseDate: "1981",
+            poster: "posters/Indiana-Jones-Raiders-of-the-Lost-Ark.jpg",
+            genre: "Adventure, Action",
+            format: "DVD",
+            playtime: "1h 55min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Indiana Jones and the Kingdom of the Crystal Skull",
+            releaseDate: "2008",
+            poster: "posters/Indiana-Jones-and-the-Kingdom-of-the-Crystal-Skull.jpg",
+            genre: "Adventure, Action",
+            format: "DVD",
+            playtime: "2h 02min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Indiana Jones and the Last Crusade",
+            releaseDate: "1989",
+            poster: "posters/Indiana-Jones-and-the-Last-Crusade.jpg",
+            genre: "Adventure, Action",
+            format: "DVD",
+            playtime: "2h 07min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Indiana Jones and the Temple of Doom",
+            releaseDate: "1984",
+            poster: "posters/Indiana-Jones-and-the-Temple-of-Doom.jpg",
+            genre: "Adventure, Action",
+            format: "DVD",
+            playtime: "1h 58min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Lord of the Rings: The Fellowship of the Ring",
+            releaseDate: "2001",
+            poster: "posters/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.jpg",
+            genre: "Adventure, Fantasy, Action",
+            format: "DVD",
+            playtime: "2h 59min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Deathly Hallows: Part 2",
+            releaseDate: "2011",
+            poster: "posters/Harry-Potter-and-the-Deathly-Hallows-Part-2.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: " 2h 10min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Deathly Hallows: Part 1",
+            releaseDate: "2010",
+            poster: "posters/Harry-Potter-and-the-Deathly-Hallows-Part-1.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Order of the Phoenix",
+            releaseDate: "2007",
+            poster: "posters/Harry-Potter-and-the-Order-of-the-Phoenix.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 18min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Goblet of Fire",
+            releaseDate: "2005",
+            poster: "posters/Harry-Potter-and-the-Goblet-of-Fire.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Prisoner of Azkaban",
+            releaseDate: "2004",
+            poster: "posters/Harry-Potter-and-the-Prisoner-of-Azkaban.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 21min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Chamber of Secrets",
+            releaseDate: "2002",
+            poster: "posters/Harry-Potter-and-the-Chamber-of-Secrets.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 41min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Harry Potter and the Philosopher's Stone",
+            releaseDate: "2001",
+            poster: "posters/Harry-Potter-and-the-Philosophers-Stone.jpg",
+            genre: "Adventure, Fantasy",
+            format: "DVD",
+            playtime: "2h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Paul",
+            releaseDate: "AAA2011AAAAAAAA",
+            poster: "posters/Paul.jpg",
+            genre: "Adventure, Comedy, Science Fiction",
+            format: "DVD",
+            playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Lion King",
+            releaseDate: "2019",
+            poster: "posters/The-Lion-King-LA.jpg",
+            genre: "Adventure, Drama, Family, Animation",
+            format: "Blu-ray",
+            playtime: "1h 58min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fakiren fra Bilbao",
+            releaseDate: "2004",
+            poster: "posters/Fakiren-fra-Bilbao.jpg",
+            genre: "Adventure, Family",
+            format: "DVD",
+            playtime: "1h 28min",
             type: "Movie"
 
         },
@@ -849,6 +2587,270 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Into the Blue",
+            releaseDate: "2005",
+            poster: "posters/Into-the-Blue.jpg",
+            genre: "Action, Thriller, Adventure, Crime",
+            format: "DVD",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Charlie's Angels",
+            releaseDate: "2000",
+            poster: "posters/Charlies-Angels.jpg",
+            genre: "Action, Comedy, Adventure",
+            format: "DVD",
+            playtime: "1h 38min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Spider-Man 2",
+            releaseDate: "2004",
+            poster: "posters/Spider-Man-2.jpg",
+            genre: "Action, Adventure, Science Fiction",
+            format: "DVD",
+            playtime: "2h 07min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Spider-Man",
+            releaseDate: "2002",
+            poster: "posters/Spider-Man.jpg",
+            genre: "Action, Science Fiction",
+            format: "DVD",
+            playtime: "2h 01min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Steel Dawn",
+            releaseDate: "1987",
+            poster: "posters/Steel-Dawn.jpg",
+            genre: "Action, Adventure, Science Fiction",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Banana Joe",
+            releaseDate: "1982",
+            poster: "posters/Banana-Joe.jpg",
+            genre: "Action, Comedy",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Legend of Zorro",
+            releaseDate: "2005",
+            poster: "posters/The-Legend-of-Zorro.jpg",
+            genre: "Action, Adventure, Western",
+            format: "DVD",
+            playtime: "2h 09min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Kung Fu Hustle",
+            releaseDate: "2004",
+            poster: "posters/Kung-Fu-Hustle.jpg",
+            genre: "Action, Comedy, Crime, Fantasy",
+            format: "DVD",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Batman",
+            releaseDate: "1966",
+            poster: "posters/Batman.jpg",
+            genre: "Action, Comedy, Crime",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "National Treasure: Book of Secrets",
+            releaseDate: "2007",
+            poster: "posters/National-Treasure-Book-of-Secrets.jpg",
+            genre: "Action, Adventure, Mystery, Thriller",
+            format: "DVD",
+            playtime: "2h 04min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Undercover Brother",
+            releaseDate: "2002",
+            poster: "posters/Undercover-Brother.jpg",
+            genre: "Action, Comedy",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nat På Museet 2",
+            releaseDate: "2009",
+            poster: "posters/Nat-På-Museet-2.jpg",
+            genre: "Action, Adventure, Comedy, Family, Fantasy",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nat På Museet",
+            releaseDate: "2006",
+            poster: "posters/Nat-På-Museet.jpg",
+            genre: "Action, Adventure, Comedy, Family, Fantasy",
+            format: "DVD",
+            playtime: "1h 48min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Snakes on a Plane",
+            releaseDate: "2006",
+            poster: "posters/Snakes-on-a-Plane.jpg",
+            genre: "Action, Thriller, Adventure, Crime, Horror",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Nitro Circus: The Movie",
+            releaseDate: "2012",
+            poster: "posters/Nitro-Circus-The-Movie.jpg",
+            genre: "Action, Comedy, Documentary",
+            format: "Blu-ray",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Get Smart",
+            releaseDate: "2008",
+            poster: "posters/Get-Smart.jpg",
+            genre: "Action, Comedy, Thriller",
+            format: "Blu-ray",
+            playtime: "1h 50min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Inception",
+            releaseDate: "2010",
+            poster: "posters/Inception.jpg",
+            genre: "Action, Science Fiction, Adventure",
+            format: "Blu-ray",
+            playtime: "2h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Stolen",
+            releaseDate: "2012",
+            poster: "posters/Stolen.jpg",
+            genre: "Action, Crime, Thriller",
+            format: "Blu-ray",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sonic the Hedgehog",
+            releaseDate: "2020",
+            poster: "posters/Sonic-the-Hedgehog.jpg",
+            genre: "Action, Science Fiction, Comedy, Family",
+            format: "Blu-ray",
+            playtime: "1h 39min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "China Strike Force",
+            releaseDate: "2000",
+            poster: "posters/China-Strike-Force.jpg",
+            genre: "Action, Thriller",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Mortal Kombat: Annihilation",
+            releaseDate: "1997",
+            poster: "posters/Mortal-Kombat-Annihilation.jpg",
+            genre: "Action, Fantasy, Science Fiction",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Crank: High Voltage",
+            releaseDate: "2009",
+            poster: "posters/Crank-High-Voltage.jpg",
+            genre: "Action, Thriller, Crime",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Karate Kid",
+            releaseDate: "2010",
+            poster: "posters/The-Karate-Kid.jpg",
+            genre: "Action, Adventure, Drama, Family",
+            format: "DVD",
+            playtime: "2h 20min ",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Men in Black",
+            releaseDate: "1997",
+            poster: "posters/Men-in-Black.jpg",
+            genre: "Action, Adventure, Comedy, Science Fiction",
+            format: "DVD",
+            playtime: "1h 38min",
+            type: "Movie"
+
+        },
+
     ],
 
 
@@ -897,6 +2899,72 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Edward Scissorhands",
+            releaseDate: "1990",
+            poster: "posters/Edward-Scissorhands.jpg",
+            genre: "Fantasy, Drama, Romance",
+            format: "DVD",
+            playtime: "1h 45min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Den Grønne Mil",
+            releaseDate: "1999",
+            poster: "posters/Den-Grønne-Mil.jpg",
+            genre: "Fantasy, Drama, Crime",
+            format: "DVD",
+            playtime: "3h 09min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Maleficent",
+            releaseDate: "2014",
+            poster: "posters/Maleficent.jpg",
+            genre: "Fantasy, Adventure, Action, Family, Romance",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "How to Train Your Dragon",
+            releaseDate: "2025",
+            poster: "posters/How-to-Train-Your-Dragon-LA.jpg",
+            genre: "Fantasy, Family, Action, Adventure",
+            format: "Blu-ray",
+            playtime: "2h 05min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Du Almægtige Evan",
+            releaseDate: "2007",
+            poster: "posters/Du-Almægtige-Evan.jpg",
+            genre: "Fantasy, Comedy, Family",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Hellboy",
+            releaseDate: "2004",
+            poster: "posters/Hellboy.jpg",
+            genre: "Fantasy, Action",
+            format: "DVD",
+            playtime: "2h 02min ",
+            type: "Movie"
+
+        },
+
 
     ],
 
@@ -920,6 +2988,83 @@ const movieDatabase = {
             genre: "Crime, Comedy, Action",
             format: "DVD",
             playtime: "1h 12min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Johnny English Reborn",
+            releaseDate: "2011",
+            poster: "posters/Johnny-English-Reborn.jpg",
+            genre: "Crime, Action, Comedy",
+            format: "DVD",
+            playtime: "1h 41min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Big Mommas: Like Father, Like Son",
+            releaseDate: "2011",
+            poster: "posters/Big-Mommas-Like-Father-Like-Son.jpg",
+            genre: "Crime, Comedy, Action",
+            format: "DVD",
+            playtime: "1h 47min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Hannibal",
+            releaseDate: "2001",
+            poster: "posters/Hannibal.jpg",
+            genre: "Crime, Drama, Thriller",
+            format: "DVD",
+            playtime: "2h 11min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Zodiac",
+            releaseDate: "2007",
+            poster: "posters/Zodiac.jpg",
+            genre: "Crime, Mystery, Thriller",
+            format: "DVD",
+            playtime: "2h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Wolf of Wall Street",
+            releaseDate: "2013",
+            poster: "posters/The-Wolf-of-Wall-Street.jpg",
+            genre: "Crime, Drama, Comedy",
+            format: "DVD",
+            playtime: "3h 00min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Johnny English",
+            releaseDate: "2003",
+            poster: "posters/Johnny-English.jpg",
+            genre: "Crime, Adventure, Action, Comedy",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Big Momma's House",
+            releaseDate: "2000",
+            poster: "posters/Big-Mommas-House.jpg",
+            genre: "Crime, Comedy",
+            format: "DVD",
+            playtime: "1h 38min",
             type: "Movie"
 
         },
@@ -961,13 +3106,299 @@ const movieDatabase = {
         }, 
 
         {
-            title: "Cowboy Indianer Og Hest",
-            releaseDate: "2002",
-            poster: "posters/Cowboy-Indianer-Og-Hest.jpg",
-            genre: "Animation, Comedy",
+            title: "Durarara!! Vol. 1",
+            releaseDate: "2010",
+            poster: "posters/Durarara-Vol-1.jpg",
+            genre: "Animation, Drama, Mystery, Crime, Action & Adventure",
             format: "DVD",
-            playtime: "2h 00min",
-            type: "Series"
+            playtime: "3h 20min",
+            type: "Anime series"
+
+        },
+
+        {
+            title: "Durarara!! Vol. 2",
+            releaseDate: "2010",
+            poster: "posters/Durarara-Vol-2.jpg",
+            genre: "Animation, Drama, Mystery, Crime, Action & Adventure",
+            format: "DVD",
+            playtime: "3h 20min",
+            type: "Anime series"
+
+        },
+
+        {
+            title: "Durarara!! Vol. 3",
+            releaseDate: "2010",
+            poster: "posters/Durarara-Vol-3.jpg",
+            genre: "Animation, Drama, Mystery, Crime, Action & Adventure",
+            format: "DVD",
+            playtime: "3h 20min",
+            type: "Anime series"
+
+        },
+
+        {
+            title: "The Nine Lifes Of Fritz the Cat",
+            releaseDate: "1972",
+            poster: "posters/The-Nine-Lifes-Of-Fritz-the-Cat.jpg",
+            genre: "Animation, Comedy, Drama",
+            format: "DVD",
+            playtime: "1h 18min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bratz: Rock Angelz",
+            releaseDate: "2005",
+            poster: "posters/Bratz-Rock-Angelz.jpg",
+            genre: "Animation, Family, Music",
+            format: "DVD",
+            playtime: "1h 16min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sing",
+            releaseDate: "2016",
+            poster: "posters/Sing.jpg",
+            genre: "Animation, Music, Comedy, Family",
+            format: "Blu-ray",
+            playtime: "1h 48min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Black Beauty",
+            releaseDate: "1995",
+            poster: "posters/Black-Beauty.jpg",
+            genre: "Animation, Drama, Family",
+            format: "DVD",
+            playtime: "49min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Leo the Lion: King of the Jungle",
+            releaseDate: "1994",
+            poster: "posters/Leo-the-Lion-King-of-the-Jungle.jpg",
+            genre: "Animation, Adventure, Family",
+            format: "DVD",
+            playtime: "46min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Dunderklumpen!",
+            releaseDate: "1974",
+            poster: "posters/Dunderklumpen.jpg",
+            genre: "Animation, Adventure, Family, Music, Fantasy",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Tarzan",
+            releaseDate: "1999",
+            poster: "posters/Tarzan.jpg",
+            genre: "Animation, Family, Adventure, Drama, Action",
+            format: "DVD",
+            playtime: "1h 28min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Op",
+            releaseDate: "2009",
+            poster: "posters/Op.jpg",
+            genre: "Animation, Comedy, Family, Adventure",
+            format: "DVD",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Polar-ekspressen",
+            releaseDate: "2004",
+            poster: "posters/Polar-ekspressen.jpg",
+            genre: "Animation, Adventure, Family, Fantasy",
+            format: "DVD",
+            playtime: "1h 40min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Oliver Twist Ep 1-4",
+            releaseDate: "1996",
+            poster: "posters/Oliver-Twist-Ep-1-4.jpg",
+            genre: "Animation, Comedy, Action & Adventure",
+            format: "DVD",
+            playtime: "21min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Terkel in Trouble",
+            releaseDate: "2004",
+            poster: "posters/Terkel-in-Trouble.jpg",
+            genre: "Animation, Comedy, Mystery, Thriller",
+            format: "DVD",
+            playtime: "1h 17min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Ronal the Barbarian",
+            releaseDate: "2011",
+            poster: "posters/Ronal-the-Barbarian.jpg",
+            genre: "Animation, Adventure, Fantasy",
+            format: "DVD",
+            playtime: "1h 29min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Loving Vincent",
+            releaseDate: "2017",
+            poster: "posters/Loving-Vincent.jpg",
+            genre: "Animation, Drama, Mystery, History",
+            format: "DVD",
+            playtime: "1h 35min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Megamind",
+            releaseDate: "2010",
+            poster: "posters/Megamind.jpg",
+            genre: "Animation, Action, Comedy, Family, Science Fiction",
+            format: "Blu-ray",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Spermageddon",
+            releaseDate: "2024",
+            poster: "posters/Spermageddon.jpg",
+            genre: "Animation, Adventure, Fantasy, Comedy",
+            format: "Blu-ray",
+            playtime: "1h 20min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Boss Baby",
+            releaseDate: "2017",
+            poster: "posters/The-Boss-Baby.jpg",
+            genre: "Animation, Comedy, Family",
+            format: "Blu-ray",
+            playtime: "1h 37min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "To På Flugt",
+            releaseDate: "2010",
+            poster: "posters/To-På-Flugt.jpg",
+            genre: "Animation, Family, Adventure",
+            format: "DVD",
+            playtime: "1h 40min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sandheden Om Rødhætte 2",
+            releaseDate: "2011",
+            poster: "posters/Sandheden-Om-Rødhætte-2.jpg",
+            genre: "Animation, Comedy, Family",
+            format: "DVD",
+            playtime: "1h 26min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Sandheden Om Rødhætte",
+            releaseDate: "2005",
+            poster: "posters/Sandheden-Om-Rødhætte.jpg",
+            genre: "Animation, Comedy, Family, Crime, Mystery",
+            format: "DVD",
+            playtime: "1h 21min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Who Framed Roger Rabbit",
+            releaseDate: "1988",
+            poster: "posters/Who-Framed-Roger-Rabbit.jpg",
+            genre: "Animation, Comedy, Crime, Fantasy",
+            format: "DVD",
+            playtime: "1h 44min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Marco Macaco",
+            releaseDate: "2012",
+            poster: "posters/Marco-Macaco.jpg",
+            genre: "Animation, Comedy, Family",
+            format: "DVD",
+            playtime: "1h 20min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Monsters vs Aliens",
+            releaseDate: "2009",
+            poster: "posters/Monsters-vs-Aliens.jpg",
+            genre: "Animation, Family, Adventure, Science Fiction",
+            format: "DVD",
+            playtime: "1h 34min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Shrek",
+            releaseDate: "2001",
+            poster: "posters/Shrek.jpg",
+            genre: "Animation, Comedy, Fantasy, Adventure, Family",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Monsters, Inc.",
+            releaseDate: "2001",
+            poster: "posters/Monsters-Inc.jpg",
+            genre: "Animation, Comedy, Family",
+            format: "DVD",
+            playtime: "1h 32min",
+            type: "Movie"
 
         },
 
@@ -986,6 +3417,28 @@ const movieDatabase = {
             type: "TV-Series"
         },   
 
+        {
+            title: "The Making of 'The Fellowship of the Ring'",
+            releaseDate: "2002",
+            poster: "posters/The-Making-of-The-Fellowship-of-the-Ring.jpg",
+            genre: "Documentary",
+            format: "DVD",
+            playtime: "1h 24min",
+            type: "Documentary"
+
+        },
+
+        {
+            title: "High School Musical, Bella Dancerella",
+            releaseDate: "2007",
+            poster: "posters/High-School-Musical-Bella-Dancerella.jpg",
+            genre: "Dancing",
+            format: "DVD",
+            playtime: "26min",
+            type: "Dancing"
+
+        },
+
     ],
 
 
@@ -999,9 +3452,306 @@ const movieDatabase = {
             format: "DVD",
             playtime: "2h 13min",
             type: "Movie"
+        }, 
+
+        {
+            title: "Demontown: Glory Days",
+            releaseDate: "2002",
+            poster: "posters/Demontown-Glory-Days.jpg",
+            genre: "Mystery, Horror",
+            format: "DVD",
+            playtime: "1h 55min",
+            type: "TV series edited in random order for a DVD"
+
+        },  
+
+        {
+            title: "It",
+            releaseDate: "1990",
+            poster: "posters/It.jpg",
+            genre: "Mystery, Drama, Sci-Fi & Fantasy",
+            format: "DVD",
+            playtime: "1h 30min",
+            type: "TV-Series"
+
+        },
+
+    ],
+
+
+    "Romance": [
+
+        {
+            title: "Hammers Over the Anvil",
+            releaseDate: "1994",
+            poster: "posters/Hammers-Over-the-Anvil.jpg",
+            genre: "Romance, Drama",
+            format: "DVD",
+            playtime: "1h 37min",
+            type: "Movie"
+        },   
+
+        {
+            title: "Temptation Island",
+            releaseDate: "2005",
+            poster: "posters/Temptation-Island.jpg",
+            genre: "Romance, Comedy",
+            format: "DVD",
+            playtime: "1h 27min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Everything, Everything",
+            releaseDate: "2017",
+            poster: "posters/Everything-Everything.jpg",
+            genre: "Romance",
+            format: "Blu-ray",
+            playtime: "1h 36min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pretty Woman",
+            releaseDate: "1990",
+            poster: "posters/Pretty-Woman.jpg",
+            genre: "Romance, Comedy",
+            format: "DVD",
+            playtime: "2h 00min",
+            type: "Movie"
+
+        },
+
+    ],
+
+
+    "Music": [
+
+        {
+            title: "Guns N' Roses - Welcome to the Videos",
+            releaseDate: "1998",
+            poster: "posters/Guns-N-Roses---Welcome-to-the-Videos.jpg",
+            genre: "Music",
+            format: "DVD",
+            playtime: "1h 15min",
+            type: "Music"
+        },  
+
+        {
+            title: "Guns N Roses Live Tokyo ‘92",
+            releaseDate: "1992",
+            poster: "posters/Guns-N-Roses-Live-Tokyo-92.jpg",
+            genre: "Music",
+            format: "DVD",
+            playtime: "2h 45min",
+            type: "Music"
+
+        }, 
+
+        {
+            title: "Monsters of Metal Vol. 4",
+            releaseDate: "2006",
+            poster: "posters/Monsters-of-Metal-Vol-4.jpg",
+            genre: "Music",
+            format: "DVD",
+            playtime: "4h 20min",
+            type: "Music"
+
+        },
+
+    ],
+
+
+    "Western": [
+
+        {
+            title: "Blazing Saddles",
+            releaseDate: "1974",
+            poster: "posters/Blazing-Saddles.jpg",
+            genre: "Western, Comedy",
+            format: "DVD",
+            playtime: "1h 33min",
+            type: "Movie"
         },   
 
     ],
+
+
+    "Kids": [
+
+        {
+            title: "Cowboy Indianer Og Hest",
+            releaseDate: "2002",
+            poster: "posters/Cowboy-Indianer-Og-Hest.jpg",
+            genre: "Kids, Animation, Comedy",
+            format: "DVD",
+            playtime: "2h 00min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Sørøver Sally",
+            releaseDate: "1969",
+            poster: "posters/Sørøver-Sally.jpg",
+            genre: "Kids, Puppets",
+            format: "DVD",
+            playtime: "3h 09min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Kaj og Andrea 1, “Rart At Se Dig Igen”, “ikke Gammel, Bare Ældre”",
+            releaseDate: "1999",
+            poster: "posters/Kaj-og-Andrea-1-Rart-At-Se-Dig-Igen-ikke-Gammel-Bare-Ældre.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "51min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Pingu På Snowboard",
+            releaseDate: "1986",
+            poster: "posters/Pingu-På-Snowboard.jpg",
+            genre: "Kids, Animation, Comedy",
+            format: "DVD",
+            playtime: "59min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Shanes verden 1",
+            releaseDate: "2007",
+            poster: "posters/Shanes-verden-1.jpg",
+            genre: "Kids, Family",
+            format: "DVD",
+            playtime: "1h 00min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Shanes verden 2",
+            releaseDate: "2007",
+            poster: "posters/Shanes-verden-2.jpg",
+            genre: "Kids, Family",
+            format: "DVD",
+            playtime: "1h 00min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Brum Og Stopuret",
+            releaseDate: "1991",
+            poster: "posters/Brum-Og-Stopuret.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "30min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Tom And Jerry Complete Collectors Edition Volumes 1-6",
+            releaseDate: "2009",
+            poster: "posters/Tom-And-Jerry-Complete-Collectors-Edition-Volumes-1-6.jpg",
+            genre: "Kids, Comedy",
+            format: "DVD",
+            playtime: "14h 48min",
+            type: "TV-Series, Box Set"
+
+        },
+
+        {
+            title: "Skæg med tal",
+            releaseDate: "2007",
+            poster: "posters/Skæg-med-tal.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "1h 18min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "GNOTTERNE 2 - EPS 4, 5 & 6",
+            releaseDate: "2002",
+            poster: "posters/GNOTTERNE-2---EPS-4-5-&-6.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "1h 18min",
+            type: "TV-Series"
+
+        },
+
+        {
+            title: "Skæg med bogstaver 2",
+            releaseDate: "2010",
+            poster: "posters/Skæg-med-bogstaver-2.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "3h 10min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Skæg med bogstaver 3",
+            releaseDate: "2010",
+            poster: "posters/Skæg-med-bogstaver-3.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "3h 10min",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Bamses Billedbog - Bamse, Kylling og Ælling møder det lille snupsedyr",
+            releaseDate: "2006",
+            poster: "posters/Bamses-Billedbog---Bamse-Kylling-og-Ælling-møder-det-lille-snupsedyr.jpg",
+            genre: "Kids",
+            format: "DVD",
+            playtime: "1h 18min",
+            type: "Movie"
+
+        },
+
+    ],
+
+    
+    "Reality": [
+
+        {
+            title: "Pimp My Ride The Complete First Season",
+            releaseDate: "2004",
+            poster: "posters/Pimp-My-Ride-The-Complete-First-Season.jpg",
+            genre: "Reality",
+            format: "DVD",
+            playtime: "4h 54min ",
+            type: "TV-Series"
+        }, 
+
+        {
+            title: "The Osbournes The First Season",
+            releaseDate: "2002",
+            poster: "posters/The-Osbournes-The-First-Season.jpg",
+            genre: "Reality",
+            format: "DVD",
+            playtime: "3h 20min",
+            type: "TV-Series"
+
+        },  
+
+    ],
+
 
 
 
