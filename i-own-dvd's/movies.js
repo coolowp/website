@@ -2577,7 +2577,7 @@ const movieDatabase = {
         {
             title: "Alle er 100% Assholes! Wulffmortenthaler",
             releaseDate: "2005",
-            poster: "posters/Alle-er-100%-Assholes!-Wulffmortenthaler.jpg",
+            poster: "posters/Alle-er-100-Assholes-Wulffmortenthaler.jpg",
             genre: "Comedy",
             format: "DVD",
             playtime: "1h 18min",
@@ -5130,7 +5130,7 @@ const movieDatabase = {
 
         {
             title: "Crusade Vol.1",
-            poster: "posters/Crusafe-Vol-1.jpg",
+            poster: "posters/Crusade-Vol-2.jpg",
             format: "Video CD",
             type: "Video CD"
 
@@ -5166,15 +5166,7 @@ const movieDatabase = {
             format: "Video CD",
             type: "Video CD"
 
-        },
-
-        {
-            title: "AAAAAAAAAAAAAAA",
-            poster: "posters/AAAAAAAAAAA.jpg",
-            format: "Video CD",
-            type: "Video CD"
-
-        },
+        }
 
     ],
 
@@ -5263,8 +5255,8 @@ const movieDatabase = {
 
         {
             title: "Alice I Eventyrland",
-            releaseDate: "1966",
-            poster: "posters/Alice-I-Eventyrland-1966.jpg",
+            releaseDate: "1972",
+            poster: "posters/Alice-I-Eventyrland-1972.jpg",
             format: "DVD",
             playtime: "1h 32min",
             type: "Movie"
@@ -5273,8 +5265,8 @@ const movieDatabase = {
 
         {
             title: "Alice I Eventyrland",
-            releaseDate: "1966",
-            poster: "posters/Alice-I-Eventyrland-1966.jpg",
+            releaseDate: "1972",
+            poster: "posters/Alice-I-Eventyrland-1972.jpg",
             format: "DVD",
             playtime: "1h 32min",
             type: "Movie"
@@ -5399,9 +5391,9 @@ const movieDatabase = {
             playtime: "46min",
             type: "Movie"
 
-        },
+        }
 
-    ],
+    ]
 
 
 
