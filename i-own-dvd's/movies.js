@@ -5396,6 +5396,20 @@ const movieDatabase = {
     ]
 
 
+    "WISHLIST": [
+
+                {
+            title: "Jackass Forever [DVD]",
+            releaseDate: "2022",
+            poster: "posters/AAAAAAAAAAA.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            LINK: "https://www.amazon.com/Jackass-Forever-DVD-Johnny-Knoxville/dp/B09PW2CLT2/ref=sr_1_1?crid=RNZWPMNZ29KL&dib=eyJ2IjoiMSJ9.khoAg_e0QLx9YxJLt80Q8HujO5J786C9Zv0l9I1z8l8hPSoee_4RRICr4KFgTUWC0QU0pSbTLtZgShc9XtNymQ_K2uNQkRdfrazke32HnGK5nGwxNgU1g161zgn1CR0ONfAHVanzNdLcmiZgJUHW0zqM79bEYETJBD46LhWCzb39llPMpgG_bcUYeMrErFFiy3jHGI_bJt64VIFuo6HaoJdXYEqqzWbRZVHtIEAHK38.sDRad7vnr-74l5YfBNcBjlC3WRiEYrYKaBGs7TWU5ro&dib_tag=se&keywords=jackass+4+dvd&qid=1786829400&sprefix=jackass+4+d%2Caps%2C250&sr=8-1",
+            type: "Movie"
+
+        },
+
+    ]
 
 
 };
