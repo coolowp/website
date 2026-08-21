@@ -5787,6 +5787,129 @@ const movieDatabase = {
 
         },
 
+        {
+            title: "Multiple Maniacs (1970) dvd",
+            releaseDate: "1970",
+            poster: "posters/ZWISHLIST--Multiple Maniacs (1970) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pink Flamingos (1972) dvd",
+            releaseDate: "1972",
+            poster: "posters/ZWISHLIST--Pink Flamingos (1972) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Female Trouble (1974) dvd",
+            releaseDate: "1974",
+            poster: "posters/ZWISHLIST--Female Trouble (1974) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Desperate Living (1977) dvd",
+            releaseDate: "1977",
+            poster: "posters/ZWISHLIST--Desperate Living (1977) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Polyester (1981) dvd",
+            releaseDate: "1981",
+            poster: "posters/ZWISHLIST--Polyester (1981) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "john waters Hairspray (1988) dvd",
+            releaseDate: "1988",
+            poster: "posters/ZWISHLIST--john waters Hairspray (1988) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Cry-Baby (1990) dvd",
+            releaseDate: "1990",
+            poster: "posters/ZWISHLIST--Cry-Baby (1990) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Serial Mom (1994) dvd",
+            releaseDate: "1994",
+            poster: "posters/ZWISHLIST--Serial Mom (1994) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Pecker (1998) dvd",
+            releaseDate: "1998",
+            poster: "posters/ZWISHLIST--Pecker (1998) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Cecil B. Demented (2000) dvd",
+            releaseDate: "2000",
+            poster: "posters/ZWISHLIST--Cecil B. Demented (2000) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        },
+
+        {
+            title: "A Dirty Shame (2004) dvd",
+            releaseDate: "2004",
+            poster: "posters/ZWISHLIST--A Dirty Shame (2004) dvd.jpg",
+            genre: "john waters",
+            format: "DVD",
+            playtime: "any john waters movie pls hehe",
+            type: "Movie"
+
+        }
+
+
+
     ]
 
 
