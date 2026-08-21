@@ -5393,7 +5393,7 @@ const movieDatabase = {
 
         }
 
-    ]
+    ],
 
 
     "WISHLIST": [
