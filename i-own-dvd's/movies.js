@@ -5398,13 +5398,391 @@ const movieDatabase = {
 
     "WISHLIST": [
 
-                {
-            title: "Jackass Forever [DVD]",
-            releaseDate: "2022",
-            poster: "posters/AAAAAAAAAAA.jpg",
+
+
+
+        {
+            title: "ed edd n eddy big picture show dvd 2009",
+            releaseDate: "2009",
+            poster: "posters/ZWISHLIST--ed edd n eddy big picture show dvd.jpg",
             genre: "WISHLIST",
             format: "DVD",
-            LINK: "https://www.amazon.com/Jackass-Forever-DVD-Johnny-Knoxville/dp/B09PW2CLT2/ref=sr_1_1?crid=RNZWPMNZ29KL&dib=eyJ2IjoiMSJ9.khoAg_e0QLx9YxJLt80Q8HujO5J786C9Zv0l9I1z8l8hPSoee_4RRICr4KFgTUWC0QU0pSbTLtZgShc9XtNymQ_K2uNQkRdfrazke32HnGK5nGwxNgU1g161zgn1CR0ONfAHVanzNdLcmiZgJUHW0zqM79bEYETJBD46LhWCzb39llPMpgG_bcUYeMrErFFiy3jHGI_bJt64VIFuo6HaoJdXYEqqzWbRZVHtIEAHK38.sDRad7vnr-74l5YfBNcBjlC3WRiEYrYKaBGs7TWU5ro&dib_tag=se&keywords=jackass+4+dvd&qid=1786829400&sprefix=jackass+4+d%2Caps%2C250&sr=8-1",
+            playtime: "NO LINK practically lost media, though theres a fan bluray that has it on it, but idk if i trust the site link as type",
+            type: "https://www.monsterlandmedia.com/product/ed-edd-and-eddy-the-complete-series-6-seasons-70-episodes-131-segments-plus-specials-and-movie-on-5-blu-ray-discs-in-720p-hd/"
+
+        },
+
+
+        {
+            title: "Obsession (2026) - Collector's Edition Blu-ray",
+            releaseDate: "2026",
+            poster: "posters/ZWISHLIST--Obsession (2026) - Collector's Edition Blu-ray.jpg",
+            genre: "WISHLIST",
+            format: "blu ray",
+            playtime: "https://www.amazon.com/Obsession-Collectors-Blu-ray-Michael-Johnston/dp/B0H42NZYC3/ref=tmm_blu_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PoE8H2vl8MTYxyCAwE66xjlgwq_QUeaFxxctpbBbRbeYUG8UOhmv8M4jJ8RY1LJHCIrUBisIO9AhK-TRW2UONIDU7DUkrqmVRvFB2aGeLF3ql0yRqqZPzPAd7bOKZl0Sn5twHJ7Shwcdeb1fN4jADRZPUkNyzOQ9imJ_XVVjd1rth3kYGwA2sA3ox1R8xRO7BJEg8zGcki3vBLePzihO7I6I4u2OiSeDOHtA6yDCHKI.ywmkCiG30hDeQIw7UWMHdSPP8gw8-VgNStqcMSLxSZk&qid=1786830478&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Obsession (2026) - Collector's Edition [DVD]",
+            releaseDate: "2026",
+            poster: "posters/ZWISHLIST--Obsession (2026) - Collector's Edition [DVD].jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Obsession-Collectors-DVD-Michael-Johnston/dp/B0GXN6ZKMY/ref=tmm_dvd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PoE8H2vl8MTYxyCAwE66xjlgwq_QUeaFxxctpbBbRbeYUG8UOhmv8M4jJ8RY1LJHCIrUBisIO9AhK-TRW2UONIDU7DUkrqmVRvFB2aGeLF3ql0yRqqZPzPAd7bOKZl0Sn5twHJ7Shwcdeb1fN4jADRZPUkNyzOQ9imJ_XVVjd1rth3kYGwA2sA3ox1R8xRO7BJEg8zGcki3vBLePzihO7I6I4u2OiSeDOHtA6yDCHKI.ywmkCiG30hDeQIw7UWMHdSPP8gw8-VgNStqcMSLxSZk&qid=1786830478&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "SLC Punk",
+            releaseDate: "1999",
+            poster: "posters/ZWISHLIST--SLC Punk.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/SLC-Punk-Michael-Goorjian/dp/0767837398/ref=sr_1_1?crid=65VRH6C5H857&dib=eyJ2IjoiMSJ9.H05UwmHg154aFwX0MznyoDWczma7bIEeMEOgqcRw7FPlLavEkHQ_EbxPoCCN0cyrgAr78-iex6PAd5iHrImbwwSUHlcGJUet3Xyzop_c0vYE5vJU1yNDsbTHMvpBqaIzsxaVQ718jysgPz7z-XBmthQMT7ezaGeT8iHrT2I-uQgkkgMT2qMgTCj_7JV4oQEkv2PAmCnbEG3y8eWGLkNeQuvEa3i_WRwuj0DjaCEQ1OA.PJp24YPLS-knzajWwYiX2melak0k4AjhjJfiEWTIEqY&dib_tag=se&keywords=slc+punk+dvd&qid=1786830112&sprefix=slc+pun%2Caps%2C259&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Lolita 1962",
+            releaseDate: "1962",
+            poster: "posters/ZWISHLIST--Lolita 1962.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Lolita-DVD-Stanley-Kubrick/dp/B0FBGXLKR1/ref=sr_1_1?crid=IY83OWUD5YGZ&dib=eyJ2IjoiMSJ9.lgDo1TEzli1BHbHyXws23bVFKQ8_fijnqQ3igsWQp1LkfyTKvrFSw7jCg9WUCQrNSeCBxdfb6E_2bFRieMSGwAON8XikpiC81unkxdG8WVeCbF41dYVJufTlx9QXHVwBjhrfTY6QbpkuhYJcpOyHi3t3MSGqdftOj3-V5RhVFLv5Gk9I1zP3HeYNGISNJGB-IaF6kbS8s2Np2zUqZOgS9oxiRm-LYxdccIxt9XDFiiY.PveqdIwi-PLFlUTTDi4bXsKPl6ZR9PKrTwx3xA3UVl0&dib_tag=se&keywords=lolita+dvd&qid=1786830278&sprefix=lolita+dv%2Caps%2C251&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Don't Be a Menace to South Central While Drinking Your Juice in The Hood (Unrated)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Don't Be a Menace to South Central While Drinking Your Juice in The Hood (Unrated).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Menace-South-Central-Drinking-Unrated/dp/B0009X75V0/ref=sr_1_2?crid=DVAR5H22H1B&dib=eyJ2IjoiMSJ9.C4jcHe7b1QbZKrMs1tHj_slPlDMZSusVsB-yWGurDEpvDNfcbF18e8dqSxrnrkdU9ufI7JnIIWNu5_EFP4oJmj0kYzi2EyPrRs2fsAq5BxUPXJpEk2Q6IaQoZJU8VIlspeKZ4mYyRw5rAHHDt7QrzWengozuIs3yA0fQRqWc7cRaUf2sZzPBlGs9L3sPBRDP.esaRw8TYJZJuAXUoaWocaR8Hd_OIndDIZZLzr1_470U&dib_tag=se&keywords=dont+be+a+menace+dvd&qid=1786830741&sprefix=dont+be+a+meance+%2Caps%2C272&sr=8-2",
+            type: "Movie"
+
+        },
+
+        {
+            title: "KillerKlownsfromOuterSpace",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--KillerKlownsfromOuterSpace.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/KillerKlownsfromOuterSpace-RPKG-DVD-Various/dp/B00005K3O4/ref=sr_1_28?crid=3S13C2ASXKWT5&dib=eyJ2IjoiMSJ9.Dltg-0QL0SGuYn30610CGIZRmvh4f4L-S1K_izb1md-z44qEv5tNvQTO6wPukaRMHe1m4z7vDt3-vgTw7xWLGl5aKcA_VpptgB4P56Luks7Rx570s75AW81yM2qgzofE1nniTBF_liW1XjU0m8jgNXoD54HpaJskPvTJmsxBtk17J7w_rRm91_-xfTjo48wb.faFOgt0VNwrKjdfy_plwl6hmtyR-6EUiFBQDeSN85aQ&dib_tag=se&keywords=spoof+dvd&qid=1786830784&sprefix=spoof+dv%2Caps%2C265&sr=8-28&xpid=P05_ZZ-1w2sWs",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass Forever [DVD]",
+            releaseDate: "2022",
+            poster: "posters/ZWISHLIST--JACKASS FOREVER.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Jackass-Forever-DVD-Johnny-Knoxville/dp/B09PW2CLT2/ref=sr_1_1?crid=RNZWPMNZ29KL&dib=eyJ2IjoiMSJ9.khoAg_e0QLx9YxJLt80Q8HujO5J786C9Zv0l9I1z8l8hPSoee_4RRICr4KFgTUWC0QU0pSbTLtZgShc9XtNymQ_K2uNQkRdfrazke32HnGK5nGwxNgU1g161zgn1CR0ONfAHVanzNdLcmiZgJUHW0zqM79bEYETJBD46LhWCzb39llPMpgG_bcUYeMrErFFiy3jHGI_bJt64VIFuo6HaoJdXYEqqzWbRZVHtIEAHK38.sDRad7vnr-74l5YfBNcBjlC3WRiEYrYKaBGs7TWU5ro&dib_tag=se&keywords=jackass+4+dvd&qid=1786829400&sprefix=jackass+4+d%2Caps%2C250&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass TV and Movie Collection",
+            releaseDate: "2018",
+            poster: "posters/ZWISHLIST--JACKASS COLLECTION.Jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Jackass-Movie-Collection-Johnny-Knoxville/dp/B07BF46VKZ/ref=pd_bxgy_thbs_d_sccl_1/146-8775072-8256112?pd_rd_w=8bDVy&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=1VHSVSCWWFYAP02HSA6F&pd_rd_wg=zicyN&pd_rd_r=c21b0a1c-8ab6-4cac-b3e9-98480bd4a361&pd_rd_i=B07BF46VKZ&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Jackass: Best & Last [DVD]",
+            releaseDate: "2026",
+            poster: "posters/ZWISHLIST--JACKASS BEST AND LAST.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Jackass-Best-Last-Johnny-Knoxville/dp/B0H5YLT9Q1/ref=pd_bxgy_thbs_d_sccl_2/146-8775072-8256112?pd_rd_w=8bDVy&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=1VHSVSCWWFYAP02HSA6F&pd_rd_wg=zicyN&pd_rd_r=c21b0a1c-8ab6-4cac-b3e9-98480bd4a361&pd_rd_i=B0H5YLT9Q1&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Super Bad: Unrated Extended Edition",
+            releaseDate: "1300 BEFORE CHRIST",
+            poster: "posters/ZWISHLIST--SUPERBAD.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Super-Bad-Unrated-Extended-Edition/dp/B006YW2YRK/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_23/146-8775072-8256112?pd_rd_w=pBCnj&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=5SMWFBMX7ZZJ4BJJ2VYV&pd_rd_wg=4j0MS&pd_rd_r=dd677744-f4ea-4d97-8b63-6a09155c9f4d&pd_rd_i=B006YW2YRK&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Wildboyz - ANY SEASONS Seasons 1-4",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--WILDBOYS.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "NO LINK",
+            type: "Movie"
+
+        },
+
+        {
+            title: "High School Musical 1-3",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--HIGH SCHOOL MUSICAL.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "NO LINK",
+            type: "Movie"
+
+        },
+
+        {
+            title: "American Pie 1, 3, 4, 5, 6, 7, 8, 9",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--AMERICAN PIE.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/American-Pie-9-Movie-Collection-DVD/dp/B091DYSGVJ/ref=sr_1_2?crid=3KCU4ZUZHKJEI&dib=eyJ2IjoiMSJ9.z7rnjKT92g2HIz4PMhkk6d542adOvT4kyXxTlnHtNIfKLAZEFs4DaKerBAdUgwZFlsWqupeKWcA4ME2JG1ANUpoHDDT8Anr72jZ0ALzHSfQ6T2bCGJFlmZWfuf_OR01D7tFQ3U9cRWHMfkLz5T4zZMoiGIfj50IhSrC6ZOGlvoqcEqB_qK7UJUrJ03tnzTfXy1VIBe9t5E8Trg9iTXSa4qc5aErIw2zvZHK9Q1l_KNs.XvhWkQpe0HjGyE_zFWiLE2wgLhrtCoPbhfg-Tgh88PU&dib_tag=se&keywords=american+pie+dvd&qid=1786829933&sprefix=american+pie+d%2Caps%2C281&sr=8-2",
+            type: "Movie"
+
+        },
+
+        {
+            title: "EuroTrip [DVD]",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--EUROTRIP.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Eurotrip-Scott-Mechlowicz/dp/B074J67TBP/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_5/146-8775072-8256112?pd_rd_w=sKpzS&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=JQ6RCBVN2J8T8GNH2ACN&pd_rd_wg=8FTNR&pd_rd_r=79b3c825-0e25-46ec-bd72-2a509b293a14&pd_rd_i=B074J67TBP&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scooby-Doo: The Movie (DVD) (WS)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--SCOOBYDOO.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Scooby-Doo-Keepcase-Freddie-Prinze-Jr/dp/B002GIBVW0/ref=pd_bxgy_thbs_d_sccl_1/146-8775072-8256112?pd_rd_w=ZfltD&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=KZNVCF7F58X51VGMAPT6&pd_rd_wg=Ewtod&pd_rd_r=12d45c56-52fa-43f4-baac-f2e5152ad43f&pd_rd_i=B002GIBVW0&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scooby-Doo 2: Monsters Unleashed",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Scooby-Doo 2 Monsters Unleashed.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Scooby-Doo-2-Monsters-Unleashed-Widescreen/dp/B0002B1628/ref=sr_1_9?dib=eyJ2IjoiMSJ9.msYRE6nqlIDJ4x53x9QISrkP6qPJTH5govHKq36SIGczUzQoyHxREcfhOytYhjeHOszS78IfbObcu7EZJOPVGMi8aYPtVijkuexmSDjTLAeFwPMnMfC0xUdvoSaGF4Ybr7ZdCmkZYX6wdmsw7AVYvy56OtYt-3ZBtF8QEYclRoBGXYK1X6OU0Dlb-qMUAyovnqtbimj3q6qTwOtjmumgN6lumgD1s40MceQP-gL5PSE.Wv8UKNePDiK1wIaQwLPNmUlOkbETUQ31VCi7OJkVoaI&dib_tag=se&keywords=Matthew+Lillard&qid=1786830185&s=movies-tv&sr=1-9",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Johnny Kapahala - Back on Board",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Johnny Kapahala - Back on Board.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Johnny-Kapahala-Board-Brandon-Baker/dp/B000TAN8ZU/ref=sr_1_1?crid=22PP0NWDKW4JM&dib=eyJ2IjoiMSJ9.AsxEV8ixCzTfNMwAZaincARPAyHwf6aOeTX0QNoCYVc.QWrm2_6Mo7XM0MAiKL_7oz5e_5U5oH3yYqgpeZdibrg&dib_tag=se&keywords=johnny+kapahala+back+on+board+dvd&qid=1786830222&sprefix=johhny+kapahala+back+%2Caps%2C241&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Alice In Wonderland XRATED comedy",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Alice In Wonderland XRATED comedy.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Alice-Wonderland-Kristine-Debell/dp/B0CKTQGYCW/ref=sr_1_2?crid=A5HLI4I7HV6C&dib=eyJ2IjoiMSJ9.JPjmpCb_hfdauAlc599K1PPjeOMcxCzMSwfrbszEH82fmKcLK19UsvYDdeU9g0G3rpCBPuYuhghkLvRx-pMqV8-yCtEUoo3mGe4fJygmLsoX7EtlqZejCKJs_2xz3fl6QNh8XHFHjfJ0y_2u64eqI5Z4xnDnww52oA_2Pxi4o1mnRtXw4HIbmA8wrWEOlvu4mrQTRoepNON-bs77-eZmXHp2fQpg_PYE6SVoB9PRFjA.9Tf2XVPQ3PSwx_8ygfI2xSAZaiT3zHtpWFSuloGEX20&dib_tag=se&keywords=1976+alice+in+wonderland+rated+x+dvd&qid=1786830342&sprefix=alice+an+x+rated+%2Caps%2C254&sr=8-2",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Lolita 1962",
+            releaseDate: "1962",
+            poster: "posters/ZWISHLIST--Lolita 1962.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Lolita-DVD-Stanley-Kubrick/dp/B0FBGXLKR1/ref=sr_1_1?crid=IY83OWUD5YGZ&dib=eyJ2IjoiMSJ9.lgDo1TEzli1BHbHyXws23bVFKQ8_fijnqQ3igsWQp1LkfyTKvrFSw7jCg9WUCQrNSeCBxdfb6E_2bFRieMSGwAON8XikpiC81unkxdG8WVeCbF41dYVJufTlx9QXHVwBjhrfTY6QbpkuhYJcpOyHi3t3MSGqdftOj3-V5RhVFLv5Gk9I1zP3HeYNGISNJGB-IaF6kbS8s2Np2zUqZOgS9oxiRm-LYxdccIxt9XDFiiY.PveqdIwi-PLFlUTTDi4bXsKPl6ZR9PKrTwx3xA3UVl0&dib_tag=se&keywords=lolita+dvd&qid=1786830278&sprefix=lolita+dv%2Caps%2C251&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Croods 1 and 2",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--The Croods.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Croods-2-Movie-Collection-DVD/dp/B08NM338XZ/ref=sr_1_1?crid=VA7U5K8XSUPG&dib=eyJ2IjoiMSJ9.K5h6oHzJTZzPcoIWzhTR8xFGx7u9VykHL2ukkUGxjfA6xraNQQDYrMXmlQxP-2fdhkJor874UYNzSi-viVc3NWb-X7M9lx9IbQ5XEfUbsenpMGpeQT1VTH5eKo5tSkDlIvsME4GUHrtF4aeUVSTLtG0mATPiASVfqkfOmbqk0O075eDHapqlbsVXRDUSZxObunFxr7E4PaCYC-2wVQGi3mm-R-AdW6uJrgmOteHZtoU.ucxbnAKwwDuE0EqVYvhSIkPdY_MsYbu43xZIlIJjJxk&dib_tag=se&keywords=the+croods+dvd&qid=1786830356&sprefix=the+croods%2Caps%2C262&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "The Hunger Games: Mockingjay Part 2",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--The Hunger Games Mockingjay Part 2.jpg",
+            genre: "WISHLIST",
+            format: "blu ray",
+            playtime: "NO LINK",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Fifty Shades Freed",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Fifty Shades Freed.jpg",
+            genre: "WISHLIST",
+            format: "blu ray",
+            playtime: "https://www.amazon.com/Fifty-Shades-Blu-ray-Dakota-Johnson/dp/B079J83TZ2/ref=sr_1_2?crid=3TQ11L7XUXIXE&dib=eyJ2IjoiMSJ9.mqYy-AEItaS4LCWJTOlXxwu6Wo5Pn1D5RuKhauHVcfErANtJGRSNXUXq8WUWmuoTtobyMGpHsYVp8DqcTcrKcW5y1bqkfi1a9ETj5nXcx1Rd6UGAbFTSXfvfLvPM48Kw1KuhqeyKgSzw2yX-hy1A8LV-eeP4e7SvJ7plOluDc_wg-hR8LNps1WlV3d42a96zsdckgIK5sA04V4u2HH48HNRxLi08nHjcBUzCUZzD4yA.m1ZJ4qySXs1VtBLfs9Lu9eZ_v9C5tnrdASbJ06ApSY8&dib_tag=se&keywords=fifty+shades+freed+bluray&qid=1786830398&sprefix=fifty+sshades+freed+blurra%2Caps%2C233&sr=8-2",
+            type: "Movie"
+
+        },
+
+        {
+            title: "How to Train Your Dragon: The Hidden World - Blu-ray",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--How to Train Your Dragon The Hidden World - Blu-ray.jpg",
+            genre: "WISHLIST",
+            format: "blu ray",
+            playtime: "https://www.amazon.com/How-Train-Your-Dragon-Blu-ray/dp/B07NN6HJTL/ref=sr_1_1?crid=3P6R43Q587BEO&dib=eyJ2IjoiMSJ9.PvWb4Dh-cP6ScMO513vzc5N957ptunxTio8FClZZ3sByHybqKj85MIlL7LorL-1zduspb6j5dfpAQCORp-tCDLUhDG-GkL1EyLND9mmBMsFULXqsjrixlzBwH6kxyyITayOLQu7lfCH9UZmKWJXTZ2g2j_LNCSC4kZIm2esHfTk-dR_gEJxGcrxEaUFzhv_p8tMW-xo3nF5XYi3SdO1YVXv-seXwfwmlAYq0Wbl3R7c.TB3GHdEj7lp0voLkEnV_ykYIDhhUHQSiC0U4N8Z78DA&dib_tag=se&keywords=how+to+train+your+dragon+3+blu+ray&nsdOptOutParam=true&qid=1786830422&sprefix=how+to+train+your+dragon+3+blu%2Caps%2C257&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scary Movie (2026)",
+            releaseDate: "2026",
+            poster: "posters/ZWISHLIST--Scary Movie (2026).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "no link",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Spy Kids 3: Game Over",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Spy Kids 3 Game Over.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "no link",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Scared Shrekless",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Scared Shrekless.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Scared-Shrekless-Mike-Myers/dp/B0056YMDU0/ref=sr_1_1?crid=2A9529MXF1J38&dib=eyJ2IjoiMSJ9.uoT5OLmZ1i8BKnZwFLSDa6mVxGxdSnwx6xaaXgmFuP-73US0cSMXdEEyNh3DU-pBwv6T_nSAXPTAO2No0VET0vrYuDuCXITsmFvZ7QdenkvPEZfQOPdXa7_PM6SYDLdOsDRTz6FceSxdaFTFbsbA7EzWlz3bbk-YC1XdcqBhKUiY1ktjoicdyLLX1yn3fgRf88n7CvUGni-MUjJMqvEr7CTbrw_akRdZ-XfUg3WhWj0.6d3G2gW8PAwP3wudIk80IQqZl-zZ1u-vW7xlfVwLi-c&dib_tag=se&keywords=shrek+halloween+movie&qid=1786830586&sprefix=shrek+halloween+mov%2Caps%2C266&sr=8-1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Garbage Pail Kids",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Garbage Pail Kids.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Garbage-Pail-Kids-Movie/dp/B00094ARVO/ref=sr_1_22?crid=3S13C2ASXKWT5&dib=eyJ2IjoiMSJ9.Dltg-0QL0SGuYn30610CGIZRmvh4f4L-S1K_izb1md-z44qEv5tNvQTO6wPukaRMHe1m4z7vDt3-vgTw7xWLGl5aKcA_VpptgB4P56Luks7Rx570s75AW81yM2qgzofE1nniTBF_liW1XjU0m8jgNXoD54HpaJskPvTJmsxBtk17J7w_rRm91_-xfTjo48wb.faFOgt0VNwrKjdfy_plwl6hmtyR-6EUiFBQDeSN85aQ&dib_tag=se&keywords=spoof+dvd&qid=1786830784&sprefix=spoof+dv%2Caps%2C265&sr=8-22&xpid=P05_ZZ-1w2sWs",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Dexter’s Laboratory: The Complete Series (DVD)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Dexter’s Laboratory The Complete Series (DVD).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Dexters-Laboratory-Complete-DVD-Various/dp/B0D2KLZ865/?_encoding=UTF8&pd_rd_w=GBGRo&content-id=amzn1.sym.8788bbcb-ca60-42bb-bc2e-3ab180889310&pf_rd_p=8788bbcb-ca60-42bb-bc2e-3ab180889310&pf_rd_r=3E178P6ATFBW2NF3C7XZ&pd_rd_wg=tVXeM&pd_rd_r=ecbbd624-7883-49cd-b9cc-80dcf4821b5c&ref_=pd_hp_d_btf_qpp",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Danny Phantom: The Complete Series",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Danny Phantom The Complete Series.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Danny-Phantom-Complete-David-Kaufman/dp/B00FMGPVCO/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_7/146-8775072-8256112?pd_rd_w=bOV0B&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=NR57Z5X6K79QQY18690E&pd_rd_wg=esfQq&pd_rd_r=a53dbad1-d567-46f6-ab3f-6f19956cdb3e&pd_rd_i=B00FMGPVCO&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Foster’s Home for Imaginary Friends: The Complete Series",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Foster’s Home for Imaginary Friend The Complete Series.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Fosters-Home-Imaginary-Friends-Complete/dp/B0BBN7WCRK/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_9/146-8775072-8256112?pd_rd_w=FzQ6f&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=KPYBZ35WY74AMAQ82RN0&pd_rd_wg=FevQW&pd_rd_r=5a3971ad-102a-4312-b9e8-0158e9797cf4&pd_rd_i=B0BBN7WCRK&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Robot Chicken: The Complete Series (DVD)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Robot Chicken The Complete Series (DVD).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Robot-Chicken-Complete-Seth-Green/dp/B0FFYNXG9F/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_14/146-8775072-8256112?pd_rd_w=viRaK&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=7R03PWJJGB36PGBDARZ7&pd_rd_wg=qK8hC&pd_rd_r=e1449cdf-527e-4fe6-803d-58b5d5006921&pd_rd_i=B0FFYNXG9F&psc=1",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Regular Show: The Complete Series (DVD)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Regular Show The Complete Series (DVD).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "https://www.amazon.com/Regular-Show-Complete-DVD-Various/dp/B0DPLDHHFY/?_encoding=UTF8&pd_rd_w=enc8j&content-id=amzn1.sym.8788bbcb-ca60-42bb-bc2e-3ab180889310&pf_rd_p=8788bbcb-ca60-42bb-bc2e-3ab180889310&pf_rd_r=S58F0FQWZD3D1BN4XM9Y&pd_rd_wg=Xh7cb&pd_rd_r=f74fb244-469f-4087-b88d-477be74f2f8d&ref_=pd_hp_d_btf_qpp",
+            type: "Movie"
+
+        },
+
+        {
+            title: "Cartoon Network: Level Up (DVD)",
+            releaseDate: "1212",
+            poster: "posters/ZWISHLIST--Cartoon Network Level Up (DVD).jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "NO LINK",
+            type: "Movie"
+
+        },
+
+        {
+            title: "the ballad of buster scruggs dvd 2018",
+            releaseDate: "2018",
+            poster: "posters/ZWISHLIST--BUSTER SCRUGGS.jpg",
+            genre: "WISHLIST",
+            format: "DVD",
+            playtime: "NO LINK",
             type: "Movie"
 
         },
