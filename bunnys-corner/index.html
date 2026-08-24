@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Collections</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ============================= -->
+    <!-- HOME -->
+    <!-- ============================= -->
+
+    <main id="home" class="screen active">
+
+        <div class="table">
+
+            <div class="home-title">
+                <h1>My Collection</h1>
+                <p>Choose a book</p>
+            </div>
+
+            <div class="bookshelf">
+
+                <button class="collection-book lps-book" onclick="openCollection('lps')">
+                    <div class="book-spine"></div>
+
+                    <div class="book-cover">
+                        <div class="cover-decoration">✦</div>
+                        <h2>Littlest<br>Pet Shop</h2>
+                        <p>My Collection</p>
+                        <div class="cover-paw">🐾</div>
+                    </div>
+                </button>
+
+                <button class="collection-book mh-book" onclick="openCollection('mh')">
+                    <div class="book-spine"></div>
+
+                    <div class="book-cover">
+                        <div class="cover-decoration">✦</div>
+                        <h2>Monster<br>High</h2>
+                        <p>My Collection</p>
+                        <div class="cover-paw">☠</div>
+                    </div>
+                </button>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- ============================= -->
+    <!-- BOOK -->
+    <!-- ============================= -->
+
+    <main id="bookScreen" class="screen">
+
+        <div class="book-wrapper">
+
+            <div id="book" class="book">
+
+                <!-- LEFT PAGE -->
+                <section id="leftPage" class="page left-page">
+                    <div class="page-content"></div>
+                </section>
+
+                <!-- RIGHT PAGE -->
+                <section id="rightPage" class="page right-page">
+                    <div class="page-content"></div>
+                </section>
+
+            </div>
+
+            <div class="book-controls">
+
+                <button id="backButton" onclick="goBack()">
+                    ↩ Back
+                </button>
+
+                <div id="pageIndicator"></div>
+
+                <div class="page-arrows">
+                    <button id="previousButton" onclick="previousPage()">
+                        ◀
+                    </button>
+
+                    <button id="nextButton" onclick="nextPage()">
+                        ▶
+                    </button>
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- DATA FIRST -->
+    <script src="listLPS.js"></script>
+    <script src="listMH.js"></script>
+
+    <!-- MAIN SCRIPT -->
+    <script src="script.js"></script>
+
+</body>
+</html>

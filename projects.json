@@ -46,5 +46,13 @@
         "description": "Yea i made some weird shit",
         "url": "weird/",
         "category": "PROJECT"
+    },
+
+    {
+        "name": "Bunny's Corner",
+        "description": "Might contain actual bunnies",
+        "url": "bunnys-corner/",
+        "category": "PROJECT"
     }
+
 ]
