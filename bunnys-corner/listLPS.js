@@ -34,7 +34,7 @@ const lpsCollection = {
                 customName: "Hank",
                 condition: "Well for an old man",
                 image: "https://4.bp.blogspot.com/-glUY6yVf67c/WMWkvZTzv_I/AAAAAAAAueg/fHmlFYnwqyMfHekKGnZH_RsumNSYgqKNwCLcB/s270/222-Basset-Hound-1.jpg",
-                Lore: "None"
+                Lore: "He was featured in 'Lps: Experiment 42', and I wanted him badly after that since he's giving 'old-man' vibes."
             },
 
             {
@@ -54,7 +54,7 @@ const lpsCollection = {
                 customName: "Holger",
                 condition: "Well for an old man",
                 image: "https://3.bp.blogspot.com/-r3n48nR40Xg/WVNCjW7gZLI/AAAAAAAA4W8/T-18gJwjNUIYWSkTvlUShVjtMFzeIbA1gCLcBGAs/s270/1465-Bassett-Hound-Singles-1.jpg",
-                Lore: "None"
+                Lore: "Childhood pet, one of my favorites, he was the principal In all of my ‘High school’ stories."
             },
 
             {
@@ -64,7 +64,7 @@ const lpsCollection = {
                 customName: "Carl",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-P_UeNSPhuLQ/WVNJgTLFrqI/AAAAAAAA5S4/gf1_COjTr6QDuXkp6VTGtrRjgNKx7KorwCLcBGAs/s270/2413-Beagle-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Bought by my munchkin"
             }
 
         ],
@@ -240,7 +240,7 @@ const lpsCollection = {
                 customName: "Blenda",
                 condition: "Well",
                 image: "https://2.bp.blogspot.com/-XKdaHIJJT0o/WVNI5dkoR8I/AAAAAAAA5Nc/Jtp13K_s_uoUmEa8QcO01UNj7-cdr5HawCLcBGAs/s270/2283-Bulldog-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Munchkin’s OP, major Karen"
             },
 
             {
@@ -250,7 +250,7 @@ const lpsCollection = {
                 customName: "Tendra",
                 condition: "Well",
                 image: "https://2.bp.blogspot.com/-cKIwiDEvE0Y/WSvNCiox1fI/AAAAAAAA2VE/oAG0ptRwSJgPlP__Gt42gXcEMfLOt4m0gCLcB/s270/3587-Bulldog-LPS-1.jpg",
-                Lore: "None"
+                Lore: "From the lot me and Munchkin opened at my dad's place"
             },
 
         ],
@@ -264,7 +264,7 @@ const lpsCollection = {
                 customName: "Walter White",
                 condition: "Mint",
                 image: "https://3.bp.blogspot.com/-NdlXnYZV_X4/WMWkl6UBnDI/AAAAAAAAuZw/1EcJvELmbqAxgtEF9ZVext7xP_Y_3kLJgCLcB/s270/154-Bull-Terrier-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Enough to fill a bible"
             },
 
             {
@@ -274,7 +274,7 @@ const lpsCollection = {
                 customName: "Cody",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/---IXtD8IrsY/WWYhijrmUmI/AAAAAAAA9hg/cQTjrBxJPxcC7PlQ8y-XwhtCiELsSNoagCLcBGAs/s270/No%2523-Bull-Terrier-1.jpg",
-                Lore: "None"
+                Lore: "Contemplated not buying, but he came with a diary"
             },
 
             {
@@ -284,7 +284,7 @@ const lpsCollection = {
                 customName: "Jesse",
                 condition: "Decent",
                 image: "https://2.bp.blogspot.com/-KnwsW_xsu7g/WWELfv07mYI/AAAAAAAA7WE/Ens2cjAk9a0qjVSAqrCq8ZY9QTignyXeQCLcBGAs/s270/860-Bull-Terrier-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Bought so that Walter would have a friend"
             },
 
             {
@@ -294,7 +294,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Mint ",
                 image: "https://1.bp.blogspot.com/-er4TgkNHNLI/WWNqEqnEtaI/AAAAAAAA8DQ/5wUSBuPWuQQ4HO5-16et_RX8zhBvZ4FugCLcBGAs/s270/1094-1095-Rabbit-Bull-Terrier-Funniest-Pet-Pairs-2.jpg",
-                Lore: "None"
+                Lore: "she came with the pet I traded for to Equalize the value"
             },
 
         ],
@@ -330,7 +330,7 @@ const lpsCollection = {
                 customName: "Amaya",
                 condition: "Mint",
                 image: "https://2.bp.blogspot.com/-aK8tHjqGSb8/WMWlL_x38SI/AAAAAAAAutg/UkqlI2R7ZUsJsaKL66ATXJR0nbm6peOpQCLcB/s270/96-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Munchkin's mascot"
             },
 
             {
@@ -350,7 +350,7 @@ const lpsCollection = {
                 customName: "Maya",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-hETCe1omFCU/WMWk_jA2__I/AAAAAAAAunE/4lkxW5J4f7sf3TEVewyja1WwPFZ1ssYrQCLcB/s270/385-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "I have a double of her since the second appear to have More of a pink tint to her irises"
             },
 
             {
@@ -360,7 +360,7 @@ const lpsCollection = {
                 customName: "Maya",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-hETCe1omFCU/WMWk_jA2__I/AAAAAAAAunE/4lkxW5J4f7sf3TEVewyja1WwPFZ1ssYrQCLcB/s270/385-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "I have a double of her since the second appear to have More of a pink tint to her irises"
             },
 
             {
@@ -370,7 +370,7 @@ const lpsCollection = {
                 customName: "Angelou",
                 condition: "Decent",
                 image: "https://2.bp.blogspot.com/-J3u44G9SAVM/WWELLwDduUI/AAAAAAAA7OQ/L4HCf-R6fXguoVk7IJrpmQbTobr-zJJHwCLcBGAs/s270/731-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "I was trading it with Agnes Isaksson, but she regretted it and took it back without telling me. I later bought one of my own, and she gives major  nostalgia."
             },
 
             {
@@ -380,7 +380,7 @@ const lpsCollection = {
                 customName: "Timmy",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-kWO19NfRx1U/WWELcarJsPI/AAAAAAAA7Uw/FkigiEucVTAQdpKcfFcmvjTNm1NQzM1mgCLcBGAs/s270/836-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Running gag with internet friends; he's the Drake of all LPS (‘Drake the type to…’)"
             },
 
             {
@@ -390,7 +390,7 @@ const lpsCollection = {
                 customName: "Jade",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-cl_ScdRfCvo/WWELu3lN49I/AAAAAAAA7cE/G8M_txfE8OktNQeDdLXIg5BhVhdxe0AWwCLcBGAs/s270/963-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Long-time wishlist pet"
             },
 
             {
@@ -420,7 +420,7 @@ const lpsCollection = {
                 customName: "Heather",
                 condition: "Decent (dusty)",
                 image: "https://3.bp.blogspot.com/-xt9Lq96k5D8/WVNDxYkGyOI/AAAAAAAA4dY/Q52-3ZNqXSwF3NOEUEx83b6ST872n43jQCLcBGAs/s270/1571-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "My mascot ;P , got it for free from Agnes"
             },
 
             {
@@ -430,7 +430,7 @@ const lpsCollection = {
                 customName: "Kitah",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-gahivznNy2E/WVNEsnxfo9I/AAAAAAAA4gU/Uu_ehwBwvF89T_1fMPycnx8jeEUsGP0RgCLcBGAs/s270/1623-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Was featured in ‘LPS; Furbulous’ and I fell in love with the pet"
             },
 
             {
@@ -440,7 +440,7 @@ const lpsCollection = {
                 customName: "Felicia",
                 condition: "Mint",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM-DDq-szoux5HC2MNGPywgW0_hD2IXyRBqS820R9IcflxBX7pTAZR4ZlF4dpYuqFI8-NXQBt31bqkftOZ9h7LGZulqINoWUfxJp3WsdtpQY5GXUQVDirWFaYp8ghDKGxQYKy40ocmD4qLxE2b4WzmlImteow2y3RMzDr-BNSizmDtZ9XHCJEeAGUekKf_/s270/G7-228-Chihuahua-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "‘Was fat in high school’ or whatever lore I made up for her"
             },
 
             {
@@ -450,7 +450,7 @@ const lpsCollection = {
                 customName: "Tommy",
                 condition: "Compromised",
                 image: "https://1.bp.blogspot.com/-QwEvzS7Z7mo/WVNHzjW1cDI/AAAAAAAA4_s/Fe9IsOj1Zr0opLfpTYsAgBuvWjlHP33tQCLcBGAs/s270/2072-Chihuahua-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Childhood pet, bought him in stores together with a frog, a hedgehog and an ant. They were besties and he was in love with the ant."
             },
 
         ],
@@ -485,7 +485,7 @@ const lpsCollection = {
                 customName: "Mona",
                 condition: "Well for an old lady",
                 image: "https://1.bp.blogspot.com/-ee9i2rWXayw/WVCiAmaietI/AAAAAAAA3cs/QapPysUdawM4TtGwgqEpRM4X3YKi2pbrwCLcBGAs/s270/1058-Chow-Chow-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Given by my grandmother"
             },
 
 
@@ -496,7 +496,7 @@ const lpsCollection = {
                 customName: "Dina",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-wyHWDKCenJw/WVNNUOhU9-I/AAAAAAAA5pE/JlPgTiV9YzIheByvUNMIz4Rih0YV8m0oQCLcBGAs/s270/1157-Chow-Chow-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Long time wishlist pet"
             },
 
         ],
@@ -516,7 +516,7 @@ const lpsCollection = {
                 customName: "Troye",
                 condition: "Decent",
                 image: "https://4.bp.blogspot.com/-9aRHpKbcfLM/WMWlGBdvrvI/AAAAAAAAuqs/R8Xp6I8sdjYJsierzuIQg7ic-NddidpTQCLcB/s270/58-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Part of the same story as Jack (#750) and Jason (#244) And dated Hailey (#748), Couldn't believe my eyes when I found him for 15k"
             },
 
             {
@@ -526,7 +526,7 @@ const lpsCollection = {
                 customName: "Travis",
                 condition: "Mint",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyUD8QVtDZDuxaYFMuIDboY-2LyORY259-tIxl6lnJWeJR_P0jyLopZ3KORiZn9R3PE7p6-KfcuAYvqlXXSEN4-DMuFjuVEXF5kEELr53hJ4q7KmQBg8XpLupU-_KsDGrrsXyhrK8IZnhqLOJSF_XBKyeoODEEBq6tzO1eFi3PbO8h4Exv0mJBtYg6Gr-/s270/G7-245-Collie-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "Excited when I saw him at stores, bought without question"
             },
 
 
@@ -537,7 +537,7 @@ const lpsCollection = {
                 customName: "Eric",
                 condition: "Decent",
                 image: "https://3.bp.blogspot.com/-1luzRU8eT1k/WmS7byHKvZI/AAAAAAABF5o/g21agCCpZI8Sfe-AQOxo3nId3qPJxlEVQCLcBGAs/s270/58-Collie-V2-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Extremely lucky to find him for so cheap, dated Tiffany (#468)"
             },
 
 
@@ -548,7 +548,7 @@ const lpsCollection = {
                 customName: "Ashton",
                 condition: "Partly customized for better quality",
                 image: "https://3.bp.blogspot.com/-kJmpDfR4elc/WMWlHSlEz8I/AAAAAAAAurU/RvDcDm6hvI4c3Q3M99otEvvA78VD2cdDgCLcB/s270/67-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Was known as ‘Jake’ when me and Elin played with ‘Tiffany’ (#468), ‘Heidi’ (#886), ‘Wilder’ (#1046) and ‘Zach’ (#1217)"
             },
 
 
@@ -559,7 +559,7 @@ const lpsCollection = {
                 customName: "Wren",
                 condition: "Near mint",
                 image: "https://2.bp.blogspot.com/-_hrm9loV86s/XC8tMjIrfXI/AAAAAAABWRE/Lri1H6EbIMM4DPZJhVprKVEFPjfD-g1hgCLcBGAs/s270/363-V2-Collie-Singles-1.jpg",
-                Lore: "None"
+                Lore: "One of my first ‘male’ Main 5, thus featured in a lot of videos"
             },
 
 
@@ -570,7 +570,7 @@ const lpsCollection = {
                 customName: "Lana",
                 condition: "Near mint",
                 image: "https://2.bp.blogspot.com/-aeSomVAI-90/WW9MMVR1D4I/AAAAAAAA-fI/DWSV8lY6fI8MwjeZx_IMntaVNgrBhXqQACLcBGAs/s270/No%2523-Puzzle-Collie-Brown-LPS-1.jpg",
-                Lore: "None"
+                Lore: "None yet, but longtime wishlist pet. Didn't like her at first sight, But she grew on me"
             },
 
 
@@ -581,7 +581,7 @@ const lpsCollection = {
                 customName: "Leah",
                 condition: "Near mint",
                 image: "https://1.bp.blogspot.com/-ialSrhmFfAA/WWELlplG5EI/AAAAAAAA7YQ/jmGDF3nJiNse8LRkVPIQ9TevG9qg4WidwCLcBGAs/s270/893-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "One of my favorite collies since I started collecting, She was featured in many stories I made up "
             },
 
 
@@ -592,7 +592,7 @@ const lpsCollection = {
                 customName: "Leah",
                 condition: "decent",
                 image: "https://1.bp.blogspot.com/-ialSrhmFfAA/WWELlplG5EI/AAAAAAAA7YQ/jmGDF3nJiNse8LRkVPIQ9TevG9qg4WidwCLcBGAs/s270/893-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "One of my favorite collies since I started collecting, She was featured in many stories I made up "
             },
 
 
@@ -603,7 +603,7 @@ const lpsCollection = {
                 customName: "Sophia",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-klJyTZHd4Sk/WVCigoak36I/AAAAAAAA3kE/Gv3MHpAjACIOeYQIpeFli1uwQ--FMSwXQCLcBGAs/s270/1194-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Favorite collie of all time, long time wishlist pet"
             },
 
 
@@ -614,7 +614,7 @@ const lpsCollection = {
                 customName: "Cleo",
                 condition: "Decent",
                 image: "https://2.bp.blogspot.com/-4gSNuUgBee0/WVNDndQDX3I/AAAAAAAA4bo/7TSqJwxmRZM6PdCHoThA55xzMzsI7V3HgCLcBGAs/s270/1542-Collie-Pets-on-the-Go-Purse-1.jpg",
-                Lore: "None"
+                Lore: "Owned it before and wasn't the biggest fan of it, so I sold it But ended up regretting it, so I traded for it again…"
             },
 
 
@@ -625,7 +625,7 @@ const lpsCollection = {
                 customName: "Violet",
                 condition: "Decent",
                 image: "https://4.bp.blogspot.com/-9qVx2BRNSGw/WVNE-GTJlAI/AAAAAAAA4jg/77kOmoYS1Y0I2PyjKRniIE7TK-lXeGjUACLcBGAs/s270/1676-Collie-LPS-1.jpg",
-                Lore: "None"
+                Lore: "I've had so many of this mf that I've grown a Certain hatred for it"
             },
 
 
@@ -670,7 +670,7 @@ const lpsCollection = {
                 customName: "Bree",
                 condition: "Decent",
                 image: "https://2.bp.blogspot.com/-M3gcQ7sc1qQ/WWEK6Hxs3fI/AAAAAAAA7Ig/8YCNpoGwIa48193IvHaWQ8lpBc2POH-RwCLcBGAs/s270/639-Corgi-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Wanted her for a long time, finally found her for A decent price"
             },
 
             {
@@ -690,7 +690,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Near Mint",
                 image: "https://3.bp.blogspot.com/-zEeSbgBa62k/WWELtAfhf3I/AAAAAAAA7bQ/4Kkt7uswp6IUkLiXUcs7RYOnu60ifrvCACLcBGAs/s270/949-Corgi-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Favorite corgi of all time"
             },
 
             {
@@ -700,7 +700,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Poor",
                 image: "https://1.bp.blogspot.com/-nvDo8XIdYa0/WVClJEzmirI/AAAAAAAA3sc/wHC-zrbCEKwJcWuoepdvwzbHLPTOkA5CQCLcBGAs/s270/1360-Corgi-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Came in the lot me and Munchkin opened at my dad's place"
             },
 
             {
@@ -720,7 +720,7 @@ const lpsCollection = {
                 customName: "Gigi",
                 condition: "Decent",
                 image: "https://4.bp.blogspot.com/-YHkPrDDHG-c/WSvM6MFImkI/AAAAAAAA2T0/X7mIvW5smuYtJ9HT7e9HvP23sdaI-s4rQCLcB/s270/3567-Corgi-Singles-1.jpg",
-                Lore: "None"
+                Lore: "Came in the lot me and Munch opened at my dad's place"
             },
 
             {
@@ -730,7 +730,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Mint",
                 image: "https://1.bp.blogspot.com/-PcZx9scyIJM/ZXmNknR1PqI/AAAAAAACNkY/rxEno2OddnsyUZ4ess9yVxz8TnAbQuJAQCNcBGAsYHQ/s270/G7-12-Corgi-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "Among my first ever G7 pets"
             },
 
         ],
@@ -744,7 +744,7 @@ const lpsCollection = {
                 customName: "Adria",
                 condition: "Mint",
                 image: "https://4.bp.blogspot.com/-IJjhCve7d-k/WMWkj749gdI/AAAAAAAAuYs/q3sqS9CgeaMBKIMxY8wnvdi_p879audgQCLcB/s270/139-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Fell in love with her simplicity, so she became a need."
             },
 
             {
@@ -754,7 +754,7 @@ const lpsCollection = {
                 customName: "Dylan",
                 condition: "Decent",
                 image: "https://4.bp.blogspot.com/-sN8utZomUtw/WMWk5W99nuI/AAAAAAAAujw/ZnFa_dnO_QYVRwjQeeVHyV1hdA5i63KzwCLcB/s270/325-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Got so excited when I saw him at Arcus, became a need."
             },
 
             {
@@ -764,7 +764,7 @@ const lpsCollection = {
                 customName: "Ava-Lynn",
                 condition: "Near mint",
                 image: "https://1.bp.blogspot.com/-hK_O1ndOXFE/WWD8TGujyPI/AAAAAAAA6Rs/_GXY2t3R1W8jrnpUfG3_BkES8unOHn7twCLcBGAs/s270/518-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Was the star of my first ever LPS series I made (I still have the clips from it…)"
             },
 
             {
@@ -774,7 +774,7 @@ const lpsCollection = {
                 customName: "Alice ",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-9TOo_zyNk7o/WWD8cjoF_pI/AAAAAAAA6WE/FmSQ6y18IfYZ0aX0O3-kepoEwhI_Fnr3ACLcBGAs/s270/556-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Best friend with Ava-Lynn (#518), wasn't a favorite, But she's grown on me"
             },
 
             {
@@ -784,7 +784,7 @@ const lpsCollection = {
                 customName: "Celene",
                 condition: "Well",
                 image: "https://3.bp.blogspot.com/-9n5LdBkQoa0/WWEK6v7UTzI/AAAAAAAA7Ik/syU_NRUkjK0_qNqDjoIhCIJaXE2euMueQCLcBGAs/s270/640-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Used to have her and traded her, which I of course regretted, So I was overjoyed that she was featured in the lot me and Munch opened At my dad's place."
             },
 
             {
@@ -794,7 +794,7 @@ const lpsCollection = {
                 customName: "Sienna",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-lf9yLH-kQMs/WWELBCzr2eI/AAAAAAAA7Ks/qpaZ_wjk9-E5SL-ntlTMyCFkyXMbhvPRgCLcBGAs/s270/675-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Long-time wishlist pet to the point of customizing an LPS To look like her,    The Third (don't remember the second) I got from a trade, but the package got lost So the process of getting the package back was a HAZZLE with calling multiple customer services, Endless mailing, stress and tears, but at last, she made it to my doorstep <3"
             },
 
 
@@ -805,7 +805,7 @@ const lpsCollection = {
                 customName: "Sienna",
                 condition: "decent",
                 image: "https://1.bp.blogspot.com/-lf9yLH-kQMs/WWELBCzr2eI/AAAAAAAA7Ks/qpaZ_wjk9-E5SL-ntlTMyCFkyXMbhvPRgCLcBGAs/s270/675-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Long-time wishlist pet to the point of customizing an LPS To look like her,   First 675 I got, I bought from blocket, which was my second wishlist pet I Never thought I would own, and bought for big bucks (450kr), and was walking Around during the pandemic waiting for my package and couldn't believe my eyes when I opened the package and held her in my own two hands, and since, I've treasured her dearly…"
             },
 
             {
@@ -815,7 +815,7 @@ const lpsCollection = {
                 customName: "Adeleine",
                 condition: "Decent",
                 image: "https://4.bp.blogspot.com/-ehJs2OWTCWg/WWELryjFbZI/AAAAAAAA7aw/ihs0WJ-B8P4OC_VlpobOXHaJYcpedJeagCLcBGAs/s270/932-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "The second most expensive LPS I 've ever bought…"
             },
 
             {
@@ -825,7 +825,7 @@ const lpsCollection = {
                 customName: "Gabriella",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-jw-LMACRHn8/WWyLUipoOsI/AAAAAAAA-Yc/XZ1EsfMnwlkqzVf43x--QG_IsqCK5vZcACLcBGAs/s270/No%2523-Dachshund-Monopoly-LPS-1.jpg",
-                Lore: "None"
+                Lore: "First: Main wishlist pet for so many years: Was planning to buy it, but it was too expensive for my taste. At last, I found a girl who was selling it, but I ended up being able to trade an LPS I wasn't too fond of it, and it was one of the best trades I've done."
             },
 
             {
@@ -835,7 +835,7 @@ const lpsCollection = {
                 customName: "Gabriella",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-jw-LMACRHn8/WWyLUipoOsI/AAAAAAAA-Yc/XZ1EsfMnwlkqzVf43x--QG_IsqCK5vZcACLcBGAs/s270/No%2523-Dachshund-Monopoly-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Second; Munchkin bought it for me on DBA (I paid)"
             },
 
             {
@@ -845,7 +845,7 @@ const lpsCollection = {
                 customName: "Willa",
                 condition: "Poor",
                 image: "https://2.bp.blogspot.com/-GI8MUCZP4Bg/WVNCuS5_X7I/AAAAAAAA4Yk/G__b4mBZg0c8JkZs4JWO9wuh6hdt41ifgCLcBGAs/s270/1491-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Included in the lot me and Munch opened at my dad's place"
             },
 
             {
@@ -855,7 +855,7 @@ const lpsCollection = {
                 customName: "Valette",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-2MZ6osvRfTw/WVNEvX3RTEI/AAAAAAAA4g0/6HUDND2tCUka1z7NfrpupLuOl4sCA8Z8QCLcBGAs/s270/1631-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "On my wishlist but far too expensive for my taste (1000kr +), Was so lucky to find her in the lot me and Munch opened at my dad's place (The entire lot was 1050kr for 90+ lps)"
             },
 
             {
@@ -865,7 +865,7 @@ const lpsCollection = {
                 customName: "Raven",
                 condition: "Well",
                 image: "https://3.bp.blogspot.com/-gKAsHCBsoWc/WVNFz50PfGI/AAAAAAAA4o8/WreIEAeYBAsn7N1MwpLbeYmVsWxHvNMhwCLcBGAs/s270/1751-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "I've had so many of her, but the moment I traded the only oneI had (that I hadn't customized), I didn't see it for purchase again until years later when I found her on tradera again for a fair prize."
             },
 
             {
@@ -875,7 +875,7 @@ const lpsCollection = {
                 customName: "Genevieve",
                 condition: "Well",
                 image: "https://2.bp.blogspot.com/-6JRqG4WntF0/WSvNH7rY83I/AAAAAAAA2V8/XagvOoZl_-sBnYwxHCJbGUrnFfhvQvFwwCLcB/s270/3601-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "On the first trip to L.A at a Toys'R'Us, and couldn't believe my eyes. She was my first ever Dachshund and I still love her to death, partly for the memories"
             },
 
             {
@@ -885,7 +885,7 @@ const lpsCollection = {
                 customName: "Jordyn",
                 condition: "Well",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwc2vZzN43W9vMA0KDcA0L42kPWXt9pvXLia2TKWXszkH3DGA5ImZxIe5dQtiKGYuoweyWKaRGBRD3gzbApPm9TuP3s5p_5Y_ArjLgsgJmhrCQXGx-5okhSCCDtvuHiGVl1bs386mqSwE4AEbv_YXa6POcBO2lsICAQtf30phJ3udzLFynMkL1kutXABYM/s270/G7-172-Dachshund-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "Happy I found her set in stores, so I had to buy it."
             },
 
             {
@@ -895,7 +895,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Mint",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmOAlFACyOjdi9M7CQQHUnAp9jmrYCQ1qJITdNVcqYOibqwJVR6GlRk_F6qyZttXK1tNg68P5eK-QDV6KP_JcLuHwjFRwQDzJAcHNgGQeUfXxyYxK5ErYTBcchyphenhyphenohxScW1HwHrttynOwf8ZiwfvyUZMUStRLU_GaQhEa7MaKdzTrdZEGTKkwFktgHExItL/s270/G7-242-Dachshund-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "I've had probably 3 of him, two are customized. Favorite G7 dachshund thus far"
             },
 
             {
@@ -905,7 +905,7 @@ const lpsCollection = {
                 customName: "Adeleine",
                 condition: "Customized lightly",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbzHTgcoU5oXGA0mA2NnlpRU99od-MOCYtS1ZfxBSbfcnBqEtRTxoqycJPrT_60xSuxoeiRRG6LXo45BYJqrhfUUJ22UqQnkmGY-GzfCSUY2lb8lJh51f0FmTLUc2DsXWLC_ZTog-Hgj-wCPIrdeI_ME3clBEy6h-Ft-ql-PwZbDSawjSNWBhh-PcLN7O/s270/G7-261-Dachshund-Sweet-Stylish-Littlest-Pet-Shop-1.jpg",
-                Lore: "None"
+                Lore: "Bought in Denmark"
             },
 
             {
@@ -915,7 +915,7 @@ const lpsCollection = {
                 customName: "Angelina",
                 condition: "Lightly customized",
                 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj822OKagPqczJNYhtcOsrBQofniUoB9zwNt_r9h6MEIMFdr_eAsYHFOzUW1-Ztd6nRBD_XsIW0gvEIHb5zK7wMGFSPiEQvJfxmxaHYBKQVdWPp-EtNxEBkU8PNT36-7iG0qsFIrQMqnuKLJNxMSTAtTQUGnbKI2e24-PLy7R3e21Wikjrj9hbAVxQeiGPi/s270/G7-268-Dachshund-LPS-G7-1.jpg",
-                Lore: "None"
+                Lore: "Overjoyed to find her on vinted NIB for a good price"
             },
 
             {
@@ -925,7 +925,7 @@ const lpsCollection = {
                 customName: "Matt",
                 condition: "Well",
                 image: "https://2.bp.blogspot.com/-tWsln1MUzvQ/WVNGtZB33lI/AAAAAAAA40E/K0BfUQwFjhcs9bM2pv1sGeCUiWv0ej5CACLcBGAs/s270/1950-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "weird head"
             },
 
             {
@@ -935,7 +935,7 @@ const lpsCollection = {
                 customName: "TBD",
                 condition: "Compromised",
                 image: "https://4.bp.blogspot.com/-GR3odWL7On4/WVNITwC_nOI/AAAAAAAA5FA/EEQec7u1XSkmuaQyP3Wc1CY6WLHtTp5hwCLcBGAs/s270/2163-Dachshund-LPS-1.jpg",
-                Lore: "None"
+                Lore: "From the lot we opened at my dad's place, Bought batteries for it when we dropped Munchkin off at the train"
             },
 
         ],
@@ -1007,7 +1007,7 @@ const lpsCollection = {
                 customName: "George",
                 condition: "Decent",
                 image: "https://1.bp.blogspot.com/-x_t4MJa-xkw/WMWkiVL69BI/AAAAAAAAuX8/eg_43hcUAS4WsgTdwTAXm_WpSKmYnl95ACLcB/s270/127-German-Shepherd-1.jpg",
-                Lore: "None"
+                Lore: "The smartass nerd in my childhood play-sessions"
             },
 
             {
@@ -1017,7 +1017,7 @@ const lpsCollection = {
                 customName: "Derek",
                 condition: "Decent",
                 image: "https://1.bp.blogspot.com/-oublLwkyip4/WMWk9Lhk1jI/AAAAAAAAulw/uhpdUtNK4zsVzaEJm4ptjFR4zwHTxZlkACLcB/s270/357-German-Shepherd-1.jpg",
-                Lore: "None"
+                Lore: "Obtained in the lot we opened at my dad's place"
             },
 
             {
@@ -1057,7 +1057,7 @@ const lpsCollection = {
                 customName: "Starla",
                 condition: "Poor, but she's old to her defense",
                 image: "https://4.bp.blogspot.com/-_1OSj8-Tspw/WVNCdnuVAUI/AAAAAAAA4V4/EkW4ltJ33W49UTj_oM8zKSJkQuedu4FywCLcBGAs/s270/1447-German-Shepherd-LPS-1.jpg",
-                Lore: "Mom bought it for me as a surprise"
+                Lore: "Mom bought it for me as a surprise. Together with seal #342, she was part of many stories I made as a child."
             },
 
             {
@@ -1077,7 +1077,7 @@ const lpsCollection = {
                 customName: "Miles",
                 condition: "Well",
                 image: "https://3.bp.blogspot.com/-OeqNaK4zBfA/WVNGJ6YzQ3I/AAAAAAAA4uI/dbV_uqa73uYUFPsIor6UQQN6I-6nGZZqwCLcBGAs/s270/1800-German-Shepherd-Prized-Pets-Special-Edition-1.jpg",
-                Lore: "None"
+                Lore: "Found him on tradera and fell in love"
             },
 
             {
@@ -1101,7 +1101,17 @@ const lpsCollection = {
                 customName: "Daniel",
                 condition: "Well",
                 image: "https://1.bp.blogspot.com/-hE6B1F0M6Y4/WMWkpkFMG5I/AAAAAAAAub0/GJRUs3T5wT8C27VltQK_Xux7-FOF0R1ogCLcB/s270/184-Great-Dane-LPS-1.jpg",
-                Lore: "First package I bought on Tradera"
+                Lore: "First package I bought on Tradera (c.a 2015), Was featured when me and Elin played with ‘Tiffany’ (#468), ‘Heidi’ (#886), ‘Wilder’ (#1046) and ‘Zach’ (#1217). He was Wilder's best friend."
+            },
+
+            {
+                number: "184",
+                set: "Pet Pairs",
+                obtained: "Tradera",
+                customName: "Daniel",
+                condition: "Well",
+                image: "https://1.bp.blogspot.com/-hE6B1F0M6Y4/WMWkpkFMG5I/AAAAAAAAub0/GJRUs3T5wT8C27VltQK_Xux7-FOF0R1ogCLcB/s270/184-Great-Dane-LPS-1.jpg",
+                Lore: "First package I bought on Tradera (c.a 2015), Was featured when me and Elin played with ‘Tiffany’ (#468), ‘Heidi’ (#886), ‘Wilder’ (#1046) and ‘Zach’ (#1217). He was Wilder's best friend."
             },
 
             {
@@ -1111,7 +1121,7 @@ const lpsCollection = {
                 customName: "Jason",
                 condition: "Near Mint",
                 image: "https://1.bp.blogspot.com/-Y1ucvPdaDxY/WMWkyBOmgHI/AAAAAAAAuf0/UNZzdWXS3KwGTR8TECw_634k7sjYeBPcwCLcB/s270/244-Great-Dane-LPS-1.jpg",
-                Lore: "Incredibly lucky finding him for a good price"
+                Lore: "Incredibly lucky finding him for a good price. Fell in love with the pet after seeing it in ‘LPS; An Irish Coffee Shop’, But thought I'd never own it myself, so was incredibly lucky to find him for a good price, and he Instantly became my nr 2 favorite Great Dane (After Jack, #750)   He's also in the story with Jack (#750), Liam (#817), etc. He's Jack's silly friend and Hailey's (#748) boyfriend. "
             },
 
             {
@@ -1121,7 +1131,7 @@ const lpsCollection = {
                 customName: "Owen",
                 condition: "Decent ",
                 image: "https://2.bp.blogspot.com/-rHU3h-oXH3M/WWD8f3J_o-I/AAAAAAAA6X4/VR4NI8KqReUnNoYUeAMzVUSSNO7qqr2lwCLcBGAs/s270/577-Great-Dane-Littlest-Singles-1.jpg",
-                Lore: "None"
+                Lore: "Muscle Milk"
             },
 
             {
@@ -1131,7 +1141,7 @@ const lpsCollection = {
                 customName: "Jack",
                 condition: "Near mint",
                 image: "https://2.bp.blogspot.com/-g4kNyGF4RtI/WWELPuDEbOI/AAAAAAAA7Pc/Zh_fAH58OLYoZnFPeNvyTMC44KutnrIogCLcBGAs/s270/750-Great-Dane-LPS-1.jpg",
-                Lore: "Main character in a story me and Elin made"
+                Lore: "Main character in a story I made up and that later became RP between me and Elin, a story we developed together later on. He was the silly guy crushing on a girl (Seraphina #339) who didn't like him back until later in the story."
             },
 
             {
@@ -1141,7 +1151,7 @@ const lpsCollection = {
                 customName: "William (Liam)",
                 condition: "Near mint",
                 image: "https://2.bp.blogspot.com/-zuQyaHHVD20/WWELZAqAh6I/AAAAAAAA7TY/5ENHPqfylkQ6AoWYVDNxRXzdHh2eG9eYACLcBGAs/s270/817-Great-Dane-LPS-1.jpg",
-                Lore: "In the same story as 'Jack'"
+                Lore: "In the same story as ‘Jack’, and the gay best friend of Seraphina (#339), Not too fond of Jack, since their personalities clash. "
             },
 
             {
@@ -1161,7 +1171,7 @@ const lpsCollection = {
                 customName: "Tyler",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-qcrP1TUeUwA/WVNCbkqeqdI/AAAAAAAA4VY/doaJuPhZos4jRpQyxE3ntRxWv6yPcVM2wCLcBGAs/s270/1439-Great-Dane-LPS-1.jpg",
-                Lore: "Again, lucky to get him for a fair price"
+                Lore: "Again, lucky to get him for a fair price ‘LPS: Psycho’ star, and my first ever Fake Lps before I got the authentic one."
             },
 
             {
@@ -1179,7 +1189,7 @@ const lpsCollection = {
                 set: "Multi Pack; Shopping Mall",
                 obtained: "In A Lot",
                 customName: "Ricky",
-                condition: "Compromised",
+                condition: "Compromised, eyelashes removed and remnants of black paint On paws, ears and nose. Removed to the best of my ability.",
                 image: "https://3.bp.blogspot.com/-bDpONUcUbvU/WVNFC-cInPI/AAAAAAAA4kQ/N9y0gXZO8KQFjLmLJIDSnoMukR__ZrkKQCLcBGAs/s270/1688-Great-Dane-LPS-1.jpg",
                 Lore: "Opened at my dad's place ft. Munchkin"
             },
@@ -1191,7 +1201,7 @@ const lpsCollection = {
                 customName: "Toby",
                 condition: "Near mint",
                 image: "https://3.bp.blogspot.com/-RtJjdjJDyWU/WVNKphwf02I/AAAAAAAA5hk/Tg432jBysDEbKThu1xHmyTCJY_NJ-MSXwCLcBGAs/s270/2583-Great-Dane-LPS-1.jpg",
-                Lore: "None"
+                Lore: "Munchkin named him"
             },
 
             {
@@ -1265,7 +1275,7 @@ const lpsCollection = {
                 customName: "Ray",
                 condition: "Well",
                 image: "https://4.bp.blogspot.com/-GSYTcR5cFHg/WWELi-ISSVI/AAAAAAAA7XI/idHiNqjSlesTN3LP7cJvlzzGU4hhws_UACLcBGAs/s270/875-Greyhound-LPS-1.jpg",
-                Lore: "Came in the first ever 'Blocket' lot I bought"
+                Lore: "Came in the first ever 'Blocket' lot I bought Was toxic in everything I played as a pre-teen."
             },
 
         ],
@@ -1273,23 +1283,173 @@ const lpsCollection = {
         "Husky": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+                number: "70",
+                set: "Multi Packs: 10-Pack",
+                obtained: "Can't remember",
+                customName: "Malcolm",
+                condition: "Decent",
+                image: "https://4.bp.blogspot.com/-kmd290-lbMM/WMWlHmfD43I/AAAAAAAAurk/h0dse9g46lwnPU7y2sEH-AxJWo0vfIzuACLcB/s270/70-Husky-LPS-1.jpg",
+                Lore: "Big brother of a loser (played by #210) in a story that features dragons,  I can't remember much else than that."
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
+                number: "210",
+                set: "Multi Packs: 12-Pack",
+                obtained: "Same lot as ‘Daniel’ (#184) c.a 2015",
+                customName: "Luke",
+                condition: "Decent for an old pet",
+                image: "https://2.bp.blogspot.com/-dAyVeDJHt5I/WMWktjpCn9I/AAAAAAAAudw/qx0a6VnAD88bxmBXWDxFLjXCwNMHMw-3ACLcB/s270/210-Husky-LPS-1.jpg",
+                Lore: "‘Luke’ was ‘Wilder’ and Zach’'s cousin when me and Elin played with ‘Tiffany’ (#468), ‘Heidi’ (#886), ‘Wilder’ (#1046) and ‘Zach’ (#1217)"
+            },
+
+            {
+                number: "386",
+                set: "Multi Packs: Pets Around The World",
+                obtained: "A lot",
+                customName: "Travis",
+                condition: "Decent",
+                image: "https://1.bp.blogspot.com/-G33YLkkJe3w/WMWk_gfRdtI/AAAAAAAAunI/sech5OgIBSc7SHA43Zm5BliVqvHRDsbaACLcB/s270/386-Husky-LPS-1.jpg",
+                Lore: "Background character in a bigger story I had, I can't remember much of it though."
+            },
+
+            {
+                number: "900",
+                set: "Multi Pack: Mega Pack",
+                obtained: "First lot I bought from ‘Blocket’",
+                customName: "Zachariah",
+                condition: "Near mint",
+                image: "https://1.bp.blogspot.com/-Zw_A7e99ASA/WWELm3kTw0I/AAAAAAAA7Yw/gYc3onrCfFMf_Edo7If2oBRX7tjc80GGQCLcBGAs/s270/900-Husky-LPS-1.jpg",
+                Lore: "Known as ‘Zach’ when me and Elin played with ‘Tiffany’ (#468), ‘Heidi’ (#886), ‘Wilder’ (#1046) "
+            },
+
+            {
+                number: "1046",
+                set: "Singles; Happiest pets",
+                obtained: "Given as a gift by my uncle",
+                customName: "Wilder",
+                condition: "Alcoholic",
+                image: "https://3.bp.blogspot.com/-8MD1OJyvxfo/WVCh9guL17I/AAAAAAAA3cA/2coZWM6_c28bOdK_t9_07OgAo2DOEpKIgCLcBGAs/s270/1046-Husky-Singles-1.jpg",
+                Lore: "He was always dating my characters until Elin asked for him to date her character ‘Heidi’ (#886). That's when ‘Wilder’ was invented, soon joined by ‘Tiffany’ (#468), ‘Zach’ (#1217), and ‘Daniel’ (#184). He was the main character and the hunk that everybody wanted, a bad boy who constantly Picked fights with his twin brother, ‘Zach’ (#900) and had a lot of siblings"
+            },
+
+            {
+                number: "68 - (standing)",
+                set: "Small Playset: Polar Puppies",
+                obtained: "Kirpu in Denmark",
+                customName: "Trevor",
+                condition: "Decent",
+                image: "https://2.bp.blogspot.com/-Py6uQGEjxAA/WMWlHcWO8TI/AAAAAAAAurY/dqej0kOYgY0GCDCQ_ZRL8QVZDUaYwLEiwCLcB/s270/68-Husky-LPS-1.jpg",
+                Lore: "Bought in Denmark"
+            },
+
+            {
+                number: "174 - (standing)",
+                set: "Tubes: Winter Tube",
+                obtained: "Can't remember",
+                customName: "Vilda",
+                condition: "Decent",
+                image: "https://3.bp.blogspot.com/-EBiL9BaMRPc/WMWkoZeRTtI/AAAAAAAAubI/JxhdherkYEAaGfeKImuo2M8yn3AS2RlewCLcB/s270/174-Husky-LPS-1.jpg",
+                Lore: "My neighbor had it as a kid and I envied her for it"
+            },
+
+            {
+                number: "341 - (standing)",
+                set: "3-Pack Scenery: Arctic Adventure",
+                obtained: "Can't remember",
+                customName: "Jeremy",
+                condition: "Decent",
+                image: "https://2.bp.blogspot.com/-crkp1uXjV7w/WMWk7jyPaFI/AAAAAAAAuk4/Wswn745OiN0EmOr6BW-gmbMVGqIPsUW4QCLcB/s270/341-Husky-LPS-1.jpg",
+                Lore: "He was the kind of loser who could never get the girl in every video and Childhood story I made that featured him."
+            },
+
+            {
+                number: "358 - (standing)",
+                set: "Large Playset: Round n Round Pet Town",
+                obtained: "Arcus with Elin c.a 2015",
+                customName: "Jace (or something like that)",
+                condition: "Decent",
+                image: "https://1.bp.blogspot.com/-DX8Rqi9Fju4/WMWk9RN8jiI/AAAAAAAAul0/_bMh06FJrEA9ADZA4W3tgljuOVbj42lxgCLcB/s270/358-Husky-LPS-1.jpg",
+                Lore: "We found two, Elin got one and I got one, and they were twins who were Barely featured in it, but part of when me and Elin played with ‘Wilder’ (#1046) and co."
+            },
+
+            {
+                number: "487 - (standing)",
+                set: "Large Playset: Round n Round Pet Town",
+                obtained: "Tradera",
+                customName: "Vincent ",
+                condition: "Decent ",
+                image: "https://3.bp.blogspot.com/-G8Zl_K48DRw/WWD8Oec3BZI/AAAAAAAA6Pc/FSkc50Bdup4Bj_ZqX0BVwExzWxhedDGLQCLcBGAs/s270/487-Husky-LPS-1.jpg",
+                Lore: "The real 'Vincent' — from the same story as 'Tiffany' (#468), 'Heidi' (#886), 'Wilder' (#1046) and 'Zach' (#1217) — was a custom, but this is the LPS version of him."
+            },
+
+            {
+                number: "1012 - (standing)",
+                set: "Large Playset: Cozy Care Adoption Center, along with puppy #1013",
+                obtained: "Christmas as a child",
+                customName: "Hallie",
+                condition: "Poor",
+                image: "https://1.bp.blogspot.com/-A4DVdTSAmeg/WVChycv4XfI/AAAAAAAA3Z0/TVALk5NOcdUj8MbDhxqovJfwJ6yUOd_OQCLcBGAs/s270/1012-Husky-LPS-1.jpg",
+                Lore: "Got her on christmas as a child"
+            },
+
+            {
+                number: "1013 - (Puppy)",
+                set: "Large Playset: Cozy Care Adoption Center, along with standing #1012",
+                obtained: "Christmas as a child",
+                customName: "Hope",
+                condition: "Decent, much better than #1012",
+                image: "https://3.bp.blogspot.com/-kAK5052Nuok/WVChyic_vNI/AAAAAAAA3Z4/OcLk2YuDKqgt1SUJPJQTGo_wlj9e882RQCLcBGAs/s270/1013-Husky-LPS-1.jpg",
+                Lore: "Got her stolen once or twice by a childhood friend, but I stole her back"
+            },
+
+            {
+                number: "1683 - (Puppy)",
+                set: "Globes: Sleddin' Fun",
+                obtained: "Big Lot",
+                customName: "Baby Wilder",
+                condition: "Decent",
+                image: "https://2.bp.blogspot.com/-q-YD1dBa5Xw/WVNFBm2JFxI/AAAAAAAA4j8/GKJT5TLuC18yJBIHeRQVEzxpsyVXyv4vACLcBGAs/s270/1683-Husky-LPS-1.jpg",
+                Lore: "Included in the lot me and Munchkin opened at my dad's place, Looks like the baby version of 'Wilder' (#1046)"
+            },
+
+            {
+                number: "1752 - (Puppy)",
+                set: "Small Playset: Puppies Playset",
+                obtained: "Can't remember",
                 customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+                condition: "Well",
+                image: "https://2.bp.blogspot.com/-YzW4v0HElAc/WVNF04jhDnI/AAAAAAAA4pM/c1pIgin5kTMy4KUuRixGKKfXAUTxCF84QCLcBGAs/s270/1752-Husky-LPS-1.jpg",
+                Lore: "My childhood friend had it as a kid and I was jealous once again"
+            },
+
+            {
+                number: "1810 - (Puppy)",
+                set: "Singles",
+                obtained: "Childhood pet",
+                customName: "AAAAAAAAAAAAAAAAAAA",
+                condition: "Compromised",
+                image: "https://1.bp.blogspot.com/-8qL248tyqig/WVNHLXvablI/AAAAAAAA42c/tuEjaLEMG38TRtWqD_UUGHMCqtOayRZMwCLcBGAs/s270/1810-Husky-Singles-1.jpg",
+                Lore: "Got stolen with 'Hope' (#1013) by my friend but stole him back"
+            },
+
+            {
+                number: "2110 - (New mold)",
+                set: "Blythe Loves Littlest Pet Shop: Moscow",
+                obtained: "Tradera",
+                customName: "Julia",
+                condition: "Decent",
+                image: "https://4.bp.blogspot.com/-MJJvY0IyW44/WVNIHN00VBI/AAAAAAAA5CA/B19f9yIJ9skDbQUn4w9c2sUpDuaOJ6gJACLcBGAs/s270/2110-Husky-LPS-1.jpg",
+                Lore: "Childhood wishlist pet, Agnes had it and I envied her for it"
+            },
+
+            {
+                number: "2297 - (New mold)",
+                set: "Singles",
+                obtained: "Tradera",
+                customName: "Romeo",
+                condition: "Decent",
+                image: "https://3.bp.blogspot.com/-_DPRftBDkzE/WVNJA7itF6I/AAAAAAAA5PE/xb8Gov73JdQ3aTFaMeKO0mA4-7BvvOIsACLcBGAs/s270/2297-Husky-Singles-1.jpg",
+                Lore: "Childhood wishlist pet, Agnes had it and I envied her for it"
             },
 
         ],
