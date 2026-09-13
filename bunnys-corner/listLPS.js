@@ -1457,23 +1457,23 @@ const lpsCollection = {
         "Jack Russel": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1110",
+            set: "Multi Pack: Pets Around the World",
+            obtained: "In A Lot",
+            customName: "",
+            condition: "Decent",
+            image: "https://2.bp.blogspot.com/-eHYXoaP2NOQ/WVCiOqv6rdI/AAAAAAAA3fw/4o361alHgEwjVLX6svud_8c3z1SxTr7fwCLcBGAs/s270/1110-Jack-Russell-LPS-1.jpg",
+            Lore: "From the big lot me and Munchkin opened at my dad's place"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2401",
+            set: "Singles",
+            obtained: "In stores, childhood pet",
+            customName: "Jake",
+            condition: "Decent",
+            image: "https://2.bp.blogspot.com/-qVjq2o2YGYY/WVNJdHwPKhI/AAAAAAAA5SY/g0KCO2bt2KIo1Da7nsoN_fkzpohEHypdQCLcBGAs/s270/2401-Jack-Russell-Singles-1.jpg",
+            Lore: "Had two of them, traded one for #2194. He was a serial cheater on my mascot, Sage (#1024) and a major asshole. The kind of guy who asks if he's the asshole on Reddit, only there's no other Verdict that fits better than asshole."
             },
 
         ],
@@ -1481,71 +1481,62 @@ const lpsCollection = {
         "Mopdog (Komondor)": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1458",
+            set: "Pet Pairs",
+            obtained: "Tradera",
+            customName: "",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-OkJI7IFYobA/WVNCghbemzI/AAAAAAAA4Wc/BWiSfal2m4Q1RS-kog73lmfOlLP71xFwQCLcBGAs/s270/1458-Mop-Dog-LPS-1.jpg",
+            Lore: "Agnes brought it to school when I was in like 3rd grade, and I loved it. Gives me major nostalgia"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1866",
+            set: "Singles",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-39wTe-72Zyg/WVNHiYmd6xI/AAAAAAAA48I/GGaq42U-5pouQBDhIjA-PnlWVh8hzaTnwCLcBGAs/s270/1866-Sheepdog-Singles-1.jpg",
+            Lore: "None"
             },
 
         ],
 
         "Labradoodle": [
 
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
-
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
 
         ],
 
         "Lhasa Apso": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2130",
+            set: "Multi Pack: Collector's 10-Pack",
+            obtained: "Can't remember",
+            customName: "Ruth",
+            condition: "Compromised",
+            image: "https://1.bp.blogspot.com/-dq31SWOGbYw/WVNIMqWyY6I/AAAAAAAA5DQ/g4gexvaE_Rcirm_xL1DY0ts0ALPEhCkxQCLcBGAs/s270/2130-Lhasa-Apso-LPS-1.jpg",
+            Lore: "None"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "G7 #38",
+            set: "Tubes: Tube 2",
+            obtained: "In stores",
+            customName: "Judith",
+            condition: "Mint",
+            image: "https://1.bp.blogspot.com/-uMAM8kmVtFQ/ZXBdXPRfgII/AAAAAAACNOk/NfqvX1pSSW0pHgaqYJikmH7F1uIpMg3BACNcBGAsYHQ/s270/G7-38-Lhasa-Apso-Tube-Littlest-Pet-Shop-1.jpg",
+            Lore: "From the first G7 LPS set I ever bought"
+            },
+
+            {
+            number: "G7 #102",
+            set: "Petfluencers: Garden Party",
+            obtained: "In stores",
+            customName: "",
+            condition: "",
+            image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZZWc88Ue_CHx-H6-Xy7ob4O8YKOhMnoM9jBHlMrpEyu1_XUGyFfZHEgi71VlnmBYj2qhFMmUmpsirAhhF2h50GLJDHGDzWtmJ_S_lOKt1zw6xXGgcxtgqW35V5o8X2xVu0uC-vWEQl5xpA8QR1jq06FqxzFSMD9pBPWu4YWa1BEDATOv0eL63BEzSyPP/s270/G7-102-Lhasa-Apso-Littlest-Pet-Shop-1.jpg",
+            Lore: "Bought with Munchkin along with our coloring books"
             },
 
         ],
@@ -1553,23 +1544,13 @@ const lpsCollection = {
         "Maltese": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
-
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "175",
+            set: "Tubes: Winter Tubes",
+            obtained: "Kirpu in Denmark",
+            customName: "Barbara",
+            condition: "Well for an old lady",
+            image: "https://3.bp.blogspot.com/-rODx7RrVVbk/WMWkoQ1jcNI/AAAAAAAAubM/LujedH2RkG8ZVdGdKGflxJCnnEHE2l_UgCLcB/s270/175-Maltese-LPS-1.jpg",
+            Lore: "Found her after digging through a basket at Kirpu"
             },
 
         ],
@@ -1577,23 +1558,43 @@ const lpsCollection = {
         "Pomeranian": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2280",
+            set: "Multi Pack: Tin",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Decent",
+            image: "https://2.bp.blogspot.com/-NOSUliEt-G4/WVNI15zuVyI/AAAAAAAA5Ms/TEp3lQyGydo8XWC7Si8lrM2m01YMzo7-wCLcBGAs/s270/2280-Pomerian-LPS-1.jpg",
+            Lore: "None"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2449",
+            set: "Blind Bags: Wave 5",
+            obtained: "Tradera",
+            customName: "",
+            condition: "Near Mint",
+            image: "https://4.bp.blogspot.com/-6WynIUrpqWI/WVNJp8o8yXI/AAAAAAAA5VM/JvLUDXiE9GUNnBK8WUBrH4rRVziKRlxJwCLcBGAs/s270/2449-Pomerian-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "G7 - 77",
+            set: "Pet Pals: Wave 2",
+            obtained: "Store bought",
+            customName: "",
+            condition: "Mint",
+            image: "https://1.bp.blogspot.com/-Y-SLR3qfi7A/ZoMeTHRguKI/AAAAAAACY1M/U94fYbJop0cbqpHqe15sLvVZke8zBS7PQCNcBGAsYHQ/s270/G7-77-Pomerian-Wave-2-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
+            Lore: "Munchkin's favorite <3"
+            },
+
+            {
+            number: "G7 - 174",
+            set: "3-Pack Scenery: Grooming Spa Play Pack",
+            obtained: "In Denmark",
+            customName: "",
+            condition: "Mint",
+            image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij8bgQ3zKiW7uLb2cH3IFEwaPzkJhNSWKVxHWx5zkFoQZ9q0TzRURowKDkREsByjaxTqgpX4J8kjV-ZgU5YRWrjnS_Vmnsf2NRstKOkwUIswVo0DWOvt633FgJ0hQP6O3rF7qUaeHFeZAMhI6dQy9FsOscQ-Rwfn0sUoMVunmCKdjZU8VJM75zKiSvLAd8/s270/G7-174-Pomeranian-Littlest-Pet-Shop-1.jpg",
+            Lore: "Super excited when seeing the pack in stores due to Sweden barely having any G7."
             },
 
         ],
@@ -1601,23 +1602,143 @@ const lpsCollection = {
         "Poodle": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "37 - (First mold)",
+            set: "Small Playset: Playful Puppies",
+            obtained: "Can't remember",
+            customName: "Dorothy",
+            condition: "Well for an old lady",
+            image: "https://2.bp.blogspot.com/-YcumBym0q-A/WMWk-g9iJ6I/AAAAAAAAumc/RpiaRpPQda4OynzOPbEzV1SBRnEio9F1ACLcB/s270/37-Poodle-LPS-1.jpg",
+            Lore: "None"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "38 - (First mold - sitting)",
+            set: "Small Playset: Playful Puppies",
+            obtained: "Can't remember",
+            customName: "Dora",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-EACUfSw03Tk/WMWk_GuvQzI/AAAAAAAAunA/lIvatZ2CnnM8ZWbVIka_3CebjcKWsE-nACLcB/s270/38-Poodle-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "39 - (First mold - sitting)",
+            set: "Small Playset: Playful Puppies",
+            obtained: "Can't remember",
+            customName: "Dory",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-sJ1BpGM7rwA/WMWlAEN8-OI/AAAAAAAAunY/jHJYdZ0JdXIBZwN9xIsUz-L01SgV050IgCLcB/s270/39-Poodle-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "730 - (Small)",
+            set: "Singles",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Cut her neck slightly to shorten it, otherwise decent",
+            image: "https://3.bp.blogspot.com/-fjz8VRGcb6Y/WWELLfWNaiI/AAAAAAAA7OI/mJSI9MXupA0D6fKeuSuiTZkhau4KqPyVQCLcBGAs/s270/730-Poodle-Singles-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "1627 - (small)",
+            set: "3-Pack Scenery: Pet Styles Salon",
+            obtained: "Trade extra",
+            customName: "",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-bEH810kRjcI/WVNEt4S5ZTI/AAAAAAAA4gg/HVQV7EO6Hz8oy6bseqeNr5jT0BZb7NPSQCLcBGAs/s270/1627-Poodle-LPS-1.jpg",
+            Lore: "She was an extra in a trade I did c.a 2015-2016 along with LPS #72 for #1022"
+            },
+
+            {
+            number: "48 - (sitting)",
+            set: "Singles",
+            obtained: "Can't remember",
+            customName: "FinkleSpinkleSparkle™️",
+            condition: "Slaying the babes - customized with fake lashes and makeup.",
+            image: "https://2.bp.blogspot.com/-1Bigu_ELbbc/WMWlE2_eXZI/AAAAAAAAuqA/fhaagu1AGTcWVa3KXeCE41n69jzX-dI0QCLcB/s270/48-Poodle-LPS-1.jpg",
+            Lore: "The diva of LPS-Tube"
+            },
+
+            {
+            number: "101 - (sitting)",
+            set: "Small Playset: Fancy Friends",
+            obtained: "Vinted",
+            customName: "Chantelle",
+            condition: "Well",
+            image: "https://2.bp.blogspot.com/-FrF1EBV_6vI/WMWke9GgVfI/AAAAAAAAuWI/g_VZofpW0ckfWn4SfzabdOFUrasBAZKawCLcB/s270/101-Poodle-LPS-1.jpg",
+            Lore: "Another diva in the collection"
+            },
+
+            {
+            number: "390 - (sitting)",
+            set: "Multi Pack: Pets Around The World",
+            obtained: "Can't remember",
+            customName: "Daisy",
+            condition: "Decent, has eyelashes painted with eyeliner.",
+            image: "https://1.bp.blogspot.com/-ZU04zt5guDs/WMWlAceLD7I/AAAAAAAAunc/dM1ffsrmGZs9LLam6Khxdr3jxlJiitP3QCLcB/s270/390-Poodle-LPS-1.jpg",
+            Lore: "Was 'FinkleSpinkleSparkle™️' before the other one came around."
+            },
+
+            {
+            number: "591 - (sitting)",
+            set: "Gift Set",
+            obtained: "Vinted",
+            customName: "",
+            condition: "Decent, dirty though which makes her blue color Look more greenish.",
+            image: "https://4.bp.blogspot.com/-MdNSTAalFwg/WWD8i9mZlBI/AAAAAAAA6Z0/Yx5GCt4O3NwnUoKrmU2Zu05ssyuPsR4mwCLcBGAs/s270/591-Poodle-LPS-1.jpg",
+            Lore: "Another diva added to the collection."
+            },
+
+            {
+            number: "1694 - (Sitting)",
+            set: "Multi Pack: Shopping Mall",
+            obtained: "Vinted",
+            customName: "Mirabelle",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-IKCQtCv__10/WVNFEpxztrI/AAAAAAAA4ko/Vl8L6oeCsm4P-llemToyAd3o9Mg7O3vGgCLcBGAs/s270/1694-Poodle-LPS-1.jpg",
+            Lore: "Another diva added to the collection."
+            },
+
+            {
+            number: "1862",
+            set: "Blythe Loves Littlest Pet Shop: Prettiest In Pearls",
+            obtained: "Vinted",
+            customName: "Chastity",
+            condition: "Well",
+            image: "https://2.bp.blogspot.com/-pptFtrHRFpA/WVNHZ0Vqz5I/AAAAAAAA45o/Jaip9Cvd4TEOXggOWHVm0gE-1DsNdGnJwCLcBGAs/s270/1862-Poodle-LPS-1.jpg",
+            Lore: "Another diva added to the collection."
+            },
+
+            {
+            number: "2497",
+            set: "Mommy & Baby: Grooming Time with Mommy",
+            obtained: "Tradera or Vinted",
+            customName: "Kylie",
+            condition: "Well",
+            image: "https://2.bp.blogspot.com/-0ACSXZv_uWU/WVNJ-plbFDI/AAAAAAAA5Zk/4wyw2rEPRVcrBtB32t3QylZm0xu9xkY-ACLcBGAs/s270/2497-Poodle-LPS-1.jpg",
+            Lore: "Another diva added to the collection."
+            },
+
+            {
+            number: "2267 - (Standing)",
+            set: "Multi Pack: Fashion Spotlight",
+            obtained: "In Stores",
+            customName: "Alicia",
+            condition: "Decent",
+            image: "https://3.bp.blogspot.com/-U41SgHeQu3k/WVNIvQfDJZI/AAAAAAAA5Lc/Xtu2wT1dt7UOyrBZpgPZozzxKpWegOcwwCLcBGAs/s270/2267-Poodle-LPS-1.jpg",
+            Lore: "I had been eyeing this pack in our local toystore but could never afford it, But I was given money retroactively by family members since my birthday had just passed, And I pranced down to the toystore to buy the pack. This poodle was a snooty goon of the school mean-girl (*Walking cat #2258*)"
+            },
+
+            {
+            number: "G7 - 420 - (standing)",
+            set: "Sweet & Stylish",
+            obtained: "Denmark",
+            customName: "Vanity",
+            condition: "Mint",
+            image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8WgfhirqaL4iefstIoW_v0uY96hEnWTiRfHstR6Xbu6V-yWL4b6Wag2o-d1vQwsj9-aF4Pd-pefigPTGKuwy8bMZ0sXGfCtUrRZ5ka1MV7ixc-6pksEaNlRjO8XCB5qqsiekIfj66s6WPP967MveccmHSwxGtQewp-_Lbj17qyMaRcuB0Pg1Tl5elcm2c/s270/G7-420-Poodle-Sweet-Stylish-Series-4-Littlest-Pet-Shop-G7-1.jpg",
+            Lore: "Found her on one of many toystore-hunts in Denmark, One of my favorite memories of late <3"
             },
 
         ],
@@ -1625,23 +1746,73 @@ const lpsCollection = {
         "Pug": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2 - (laying)",
+            set: "Pet Pairs (Juan's buddy)",
+            obtained: "Tradera",
+            customName: "Craigory",
+            condition: "Hungover, chronic 5'o clock shadow",
+            image: "https://2.bp.blogspot.com/-jW2Omaaszvs/WMWkr-7mbLI/AAAAAAAAuc4/KZl0bOF5kFAoZaZg-wOtMmc9VhDa8vLPQCLcB/s270/2-Pug-LPS-1.jpg",
+            Lore: "Came in the same set as Juan, who I bought the package for. He's a stray."
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "889 - My first ever LPS",
+            set: "Singles",
+            obtained: "Surprise by my parents",
+            customName: "Bullen",
+            condition: "Loved",
+            image: "https://2.bp.blogspot.com/-o7DM_VKU_J8/WWELlDIewkI/AAAAAAAA7YA/2dPM8UPEbTckB4PVcmPR0YuqE9qu9qNoACLcBGAs/s270/889-Pug-Cuddliest-Singles-1.jpg",
+            Lore: "Where do I begin? He was a surprise from my mom and dad after seeing him at the grocery store, I played with him all the time, and slowly began my collection. I drew him a lot and even made books about him and his friends '*Blomman*' (#877) And '*My*' (#1784 or #2274). There's so much lore to him, and he's my favorite senior citizen."
+            },
+
+            {
+            number: "901",
+            set: "Multi Pack: Mega Pack",
+            obtained: "A Lot",
+            customName: "Bob",
+            condition: "Near mint, surprisingly",
+            image: "https://1.bp.blogspot.com/-Gdn5Nzyf5pM/WWELnOc_8AI/AAAAAAAA7Y0/jFwTWmW_QbouLv_MB0eMSq4q6TkRFXRtQCLcBGAs/s270/901-Pug-LPS-1.jpg",
+            Lore: "Came with the first lot I ever bought by myself from 'Blocket', In all my roleplays as a child, he was the calm, steady and nice guy that One of the pretty and popular girls dated."
+            },
+
+            {
+            number: "1753",
+            set: "Small Playset: Puppies Playset",
+            obtained: "A Lot",
+            customName: "",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-gtGhyFmIs6w/WVNF1gGkuHI/AAAAAAAA4pY/3XaAtffW3gIhgPXeQlDmxP8_F6h0sdXuACLcBGAs/s270/1753-Pug-LPS-1.jpg",
+            Lore: "My neighbor (and childhood friend) had it when we were kids, So she provides a sense of nostalgia"
+            },
+
+            {
+            number: "623 - (Standing)",
+            set: "Collectible pets",
+            obtained: "Can't remember",
+            customName: "Shitstain",
+            condition: "Decent",
+            image: "https://2.bp.blogspot.com/-RnwtD6WvgAw/WWEK24D0NWI/AAAAAAAA7Hc/f3Tvji1WdvUvztqYV0nHSEzaPjiVnuG7gCLcBGAs/s270/623-Pug-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "1313 - (Standing)",
+            set: "Pet Pairs",
+            obtained: "Kirpu in Denmark",
+            customName: "Greg",
+            condition: "Compromised",
+            image: "https://1.bp.blogspot.com/-nblRnFV3D2s/WVCk7xRmY3I/AAAAAAAA3pc/0EnMgD7v_1MToZLmJWtYgRNjKtA5WkcgQCLcBGAs/s270/1313-Pug-LPS-1.jpg",
+            Lore: "Found him in a second hand and felt bad for him… (Plus; an lps is an lps, so I bought him.)"
+            },
+
+            {
+            number: "G7 - (standing)",
+            set: "Pet Surprise: Wave 4",
+            obtained: "Ica Maxi",
+            customName: "BobsWorth II",
+            condition: "Flawless",
+            image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4FNOPT-iXQ2X1dYZjdtIYDqo9D4KOUqjGi8RWV0uf-qLFCIEZy-5dPXoi8JZO_PIERnVWxVXThnBYyd-8nLnAi6rjj1v9BB1m5q7NKN3SYOI_p54ajPdP1sKpZuynx_LL4b-C8yC31Dzn_fQn5kw6uNC-J5OxfRZds_uwC3DO32BI8SVhyphenhyphenFTS2e6uJaLG/s270/G7-227-Pug-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
+            Lore: "Really wanted this funky guy since he was Basic Fun's first new mold, despite only being a headswap. And he's also adorable…"
             },
 
         ],
@@ -1649,23 +1820,53 @@ const lpsCollection = {
         "Puppy": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "143",
+            set: "Singles",
+            obtained: "In a lot",
+            customName: "Gibby",
+            condition: "Decent",
+            image: "https://4.bp.blogspot.com/-Z3reKR4NyT8/WMWkkgUlQcI/AAAAAAAAuZA/BEJET7Y8S4Ih9olRmGb-7nAvBHg2DD-nwCLcB/s270/143-Puppy-LPS-1.jpg",
+            Lore: "None"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "657",
+            set: "Purse; Pets On The Go",
+            obtained: "In a lot",
+            customName: "",
+            condition: "Well",
+            image: "https://2.bp.blogspot.com/-lZBA2NuQVaw/WWEK9h4fXvI/AAAAAAAA7Jo/vUFRx81FCfk7v-YLN-bVFjd2C1iX41tqQCLcBGAs/s270/657-Puppy-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "760",
+            set: "Special; Advent Calendar",
+            obtained: "In a lot",
+            customName: "",
+            condition: "Decent",
+            image: "https://4.bp.blogspot.com/-7vNii6Jrm6M/WWELQwELVgI/AAAAAAAA7P8/hEWSib-XQWE1-Ci7yYCHzJWUJarThzV2gCLcBGAs/s270/760-Puppy-LPS-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "1052",
+            set: "Singles; Sportiest Pets",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Well",
+            image: "https://2.bp.blogspot.com/-LGH785K5gzg/WVCh_WwwlsI/AAAAAAAA3cY/wOwFslb43lIRkmBlxQrrLIwyaCONpbz1ACLcBGAs/s270/1052-Puppy-Sportiest-Singles-1.jpg",
+            Lore: "None"
+            },
+
+            {
+            number: "2231",
+            set: "Singles",
+            obtained: "Birthday gift",
+            customName: "",
+            condition: "Well for an old pet",
+            image: "https://3.bp.blogspot.com/-0sbkF0K4mdo/WVNIlFXmUGI/AAAAAAAA5I4/iCKpSW0HJgkks20lzKQQyH6eqGl7chtTQCLcBGAs/s270/2231-Puppy-Singles-1.jpg",
+            Lore: "Birthday present at one of my many Halloween-Birthday parties, My childhood bully used to use this LPS when we played together…"
             },
 
         ],
@@ -1673,71 +1874,42 @@ const lpsCollection = {
         "Retriever": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "268",
+            set: "Tubes: Tube 8",
+            obtained: "Arcus?",
+            customName: "Jacob",
+            condition: "Well for an old man",
+            image: "https://3.bp.blogspot.com/-CzqkEOkQ5LQ/WMWk1AodZtI/AAAAAAAAuhg/Ntc0tJd4_IgMfReScFQCWrPCWkuodFNawCLcB/s270/268-Retriever-LPS-1.jpg",
+            Lore: "Was featured in one of my first videos (same as Ava-Lynn #518, Wren #363, etc) And was Ava-Lynn's unfaithful boyfriend, who cheated on her with Ava-Lynn's nemesis."
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "G7 - 457",
+            set: "Pet Surprise",
+            obtained: "In Stores",
+            customName: "Lucy",
+            condition: "Mint",
+            image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih0Hvw8LnB8RD2z1QEOtsgoLcwksJoXv88ZhEGorLmApFLTtzISl0a0_Pjj2hKFBIrvOBdDF2xtq0F39rOR7kc24GMGTuwfVJD6cw4TKvCJolHabWNYIg2FSV0BTPhJ3Q0BnlfY6sA5QvhMm3PfQVnkboDBqKogfCtTJdVFCYqOMDn20BMKF7ULKrnIUaX/s270/G7-457-Labrador-Retriever-Pet-Surprise-Littlest-Pet-Shop-1.jpg",
+            Lore: "Not much - I have two other ones turned into customs."
             },
 
         ],
 
         "Saint Bernard": [
 
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
-
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
 
         ],
 
         "Schnautzer": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
-
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1393",
+            set: "Large Playset: Pets Only! Clubhouse",
+            obtained: "Christmas - NIB",
+            customName: "Charles",
+            condition: "Well for an old man with crippling alcoholism",
+            image: "https://2.bp.blogspot.com/-dDB3SaXrsJw/WVClUedncgI/AAAAAAAA3us/uzrAobSGO1Ey57gUKZNORIik7Sw8Az44QCLcBGAs/s270/1393-Schnauzer-LPS-1.jpg",
+            Lore: "He was always the dad to every main character when me and my friends played Or made videos, he was a bitter dad, usually alcoholic as well…"
             },
 
         ],
@@ -1745,23 +1917,23 @@ const lpsCollection = {
         "Scottish Terrier": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1034",
+            set: "Singles: Happiest Pets",
+            obtained: "Can't remember",
+            customName: "Linda",
+            condition: "Well",
+            image: "https://3.bp.blogspot.com/-flCusIDCYI8/WVCh5uCKrDI/AAAAAAAA3bU/2zPCTp6SR_Mk-PQ16VgxpKbwLEHbBmdIACLcBGAs/s270/1034-Scottie-LPS-1.jpg",
+            Lore: "Was the LPS version of my mother when I played as a pre-teen/teenager, She shares the same brown eyes, the haircut by the chin and the black fur color, Thus she became my mother's mascot. I used to play out my life as a child to cope with everything I went through When it comes to bullying, mental illnesses, romance, traumas, and just Fictional stories I made up, which later developed into stories written on paper. I played until I was probably 18 years old, and I miss the ability to sometimes, But I find that I lack the imagination it craves to do so. It helped me cope with so much and became something that many times Rescued my life, despite feeling weird for doing so, but nobody had to know."
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "2260",
+            set: "Multi Pack: Fashion Spotlight",
+            obtained: "In Stores",
+            customName: "Bart",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-Tdb9LaxvrMo/WVNItcKxAjI/AAAAAAAA5Ko/tJa_LJey3fEp2MINGheJ-tveQQakrKWSQCLcBGAs/s270/2260-Scottie-LPS-1.jpg",
+            Lore: "I had been eyeing this pack in our local toystore but could never afford it, But I was given money retroactively by family members since my birthday had just passed, And I pranced down to the toystore to buy the pack. This dude was a dad as well, but a wilder and more crazy one, with weird quirks and ideas."
             },
 
         ],
@@ -1769,23 +1941,33 @@ const lpsCollection = {
         "Sheepdog": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1077",
+            set: "Globes: Frosty Fortress",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-Ycchw6lzdjI/WVCiFsmxJcI/AAAAAAAA3ds/Vgf3epzUqR46OP16DkxOGxyGai4mTIhcwCLcBGAs/s270/1077-Sheepdog-LPS-1.jpg",
+            Lore: "None"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "1513",
+            set: "Singles",
+            obtained: "Can't remember",
+            customName: "",
+            condition: "Decent",
+            image: "https://4.bp.blogspot.com/-Oqx9PpCB2s0/WVNDbcH5GeI/AAAAAAAA4Z0/DCvI2ehHuuQ3WiqOI4pLSlAMlzsWJJZ1gCLcBGAs/s270/1513-Sheepdog-Singles-1.jpg",
+            Lore: "Was part of a roleplay-story I made as a teenager where her touch was venomous."
+            },
+
+            {
+            number: "2518",
+            set: "Small Playset",
+            obtained: "Hertsödagen (flea market)",
+            customName: "",
+            condition: "Decent",
+            image: "https://3.bp.blogspot.com/-sgASXdrsC1c/WVNKadYBbsI/AAAAAAAA5eY/MEomRBykwB45jIBF7mHJN26ZNLBzAuOSwCLcBGAs/s270/2516-Sheepdog-LPS-1.jpg",
+            Lore: "Bought with a cocker spaniel (#1615)"
             },
 
         ],
@@ -1793,72 +1975,120 @@ const lpsCollection = {
         "Shi Tzu": [
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "6",
+            set: "Portable Pets",
+            obtained: "A classmate's old LPS that she gave me",
+            customName: "Gerthrude",
+            condition: "As well as she can with that tuft of hair",
+            image: "https://2.bp.blogspot.com/-3S4loSeWeuc/WMWlGYopAiI/AAAAAAAAuqw/d62QePZnZEwfU7WJe-kf2Ga6wwMpWf8HgCLcB/s270/6-Shi-Tzu-LPS-1.jpg",
+            Lore: "Crazy ass senior citizen with mild mania and all psychosis"
             },
 
             {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
+            number: "141",
+            set: "Portable Pets",
+            obtained: "A lot probably",
+            customName: "Kerstin",
+            condition: "As well as she can with that excuse of a hairstrand",
+            image: "https://4.bp.blogspot.com/-zPPNFSldVJc/WMWkkL-cbaI/AAAAAAAAuY8/qNpthyDkL_E7gQzKggEk4ip-ogOEgWAbgCLcB/s270/141-Shi-Tzu-LPS-1.jpg",
+            Lore: "She has beef with Gerthrude with all right, since Gerthrude slept with her stepson,"
             },
 
         ],
 
+        "Spaniels": [
+
+            {
+            number: "252",
+            set: "Multi Packs: Collector's Tin",
+            obtained: "Tradera",
+            customName: "Harry",
+            condition: "Decent",
+            image: "https://3.bp.blogspot.com/-ybxRNtC1BD8/WMWkzD_8PKI/AAAAAAAAugY/nFzQDkKoMb4wJTftMK4BBPoJV4-8FI0cgCLcB/s270/252-Spaniel-LPS-1.jpg",
+            Lore: "Dated Rose-Belle (#575) when I played and was a good guy basically"
+            },
+
+            {
+            number: "252",
+            set: "Multi Packs: Collector's Tin",
+            obtained: "Tradera",
+            customName: "Harry",
+            condition: "Decent",
+            image: "https://3.bp.blogspot.com/-ybxRNtC1BD8/WMWkzD_8PKI/AAAAAAAAugY/nFzQDkKoMb4wJTftMK4BBPoJV4-8FI0cgCLcB/s270/252-Spaniel-LPS-1.jpg",
+            Lore: "Dated Rose-Belle (#575) when I played and was a good guy basically"
+            },
+
+            {
+            number: "298",
+            set: "Collectible pets",
+            obtained: "Tradera",
+            customName: "Reuben",
+            condition: "Well",
+            image: "https://3.bp.blogspot.com/-by7XMybeiMA/WMZjdWvLopI/AAAAAAAAuy8/21t28zWWFOMyncxVmI9xGEUeW6LX90AWwCLcB/s270/298-Spaniel-LPS-1.jpg",
+            Lore: "Looks like my Munchkin if he was an LPS"
+            },
+
+            {
+            number: "344",
+            set: "3–Pack Scenery: Pet Shopping (Bargain Hunters)",
+            obtained: "Tradera",
+            customName: "André",
+            condition: "Decent, repainted slightly",
+            image: "https://4.bp.blogspot.com/-0oGWb0hxkX0/WMWk7-R3pvI/AAAAAAAAulE/a5LdDVyFVdIZa1xOb0NsQEXXK4GgNbtuACLcB/s270/344-Spaniel-LPS-1.jpg",
+            Lore: "Not much – he was more or less an NPC in my stories when I played"
+            },
+
+            {
+            number: "347",
+            set: "Pet Nooks",
+            obtained: "Arcus for 15kr 😎",
+            customName: "Luna",
+            condition: "Well",
+            image: "https://4.bp.blogspot.com/-WEllOoz8G3U/WMZli-FMCNI/AAAAAAAAuzk/MMwAlclBuLYPNgXC9oWMwEuhzdp_eF3LACLcB/s270/347-Spaniel-LPS-1.jpg",
+            Lore: "Found her at Arcus for 15-ish crowns in 2019 on my birthday, She was featured in a lot of play-sessions and had a mellow, kind Personality, yet humbled everyone."
+            },
+
+            {
+            number: "575",
+            set: "Singles",
+            obtained: "Blocket with #339",
+            customName: "Rose-Belle",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-UwWPLnslbxU/WWD8fn-PbVI/AAAAAAAA6Xw/tndjX3t-5QspGCWifE3Rxn7Mu83Rfw91gCLcBGAs/s270/575-Spaniel-Cuddliest-Singles-1.jpg",
+            Lore: "Bought her on Blocket for 100kr along with #339, She was in the story with *Jack (#750)*, Jason, etc and was *Seraphina's (#339)* Best friend, and *Hailey (#748)*, *Liam (#817)*, and *Brianna's (#344)* sister. She was bubbly and supportive and a girly girl."
+            },
+
+            {
+            number: "672",
+            set: "Multi Pack: Mega Pack",
+            obtained: "First lot from Blocket c.a 2015",
+            customName: "Eliza",
+            condition: "Well for an old lady",
+            image: "https://3.bp.blogspot.com/-lunRxeG2iXw/WmS9DOn_F6I/AAAAAAABF6Q/zV1T4Cd4OLYg21nY6-0dC3Ty73kIhpusACLcBGAs/s270/672-Spaniel-V2-LPS-1.jpg",
+            Lore: "Was part of my first ever LPS lot I bought from blocket, I had wished for an LPS cocker spaniel for ages without any luck of finding one, It went so far that I began making cocker spaniels from clay and dressed Holger (Basset Hound #1465) up as a cocker spaniel, so when I finally got my hands on a real Cocker spaniel, life was unreal."
+            },
+
+            {
+            number: "716",
+            set: "Collectible pets (added picture bc it's adorable)",
+            obtained: "Trade (#675 for #716), arrived at my dad's place",
+            customName: "Rose",
+            condition: "Well",
+            image: "https://1.bp.blogspot.com/-nZ7ChCV_fwY/WWELI4Um7HI/AAAAAAAA7NU/MGboAv3io2YHc3wnVaRD5cldqFIHbuFDACLcBGAs/s270/716-Spaniel-LPS-1.jpg",
+            Lore: "I want all of the Cocker Spaniels with the dipped ear-design (Plus; squarish irises: #575, #716, #748, #960),"
+            },
+
+        ],
+
+
         "Wolf": [
 
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
 
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
 
         ],
 
         "Yorkshire Terrier": [
 
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
-
-            {
-                number: "AAAAAAAAAAAAAAAAAAA",
-                set: "AAAAAAAAAAAAAAAAAAA",
-                obtained: "AAAAAAAAAAAAAAAAAAA",
-                customName: "AAAAAAAAAAAAAAAAAAA",
-                condition: "AAAAAAAAAAAAAAAAAAA",
-                image: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                Lore: "None"
-            },
 
         ],
 
